@@ -1,0 +1,301 @@
+Restaurant ID,Name,Cuisine,Locality,City,Rating,Total Number Ratings,Delivery
+16600038,Bib & Tucker,"Modern Australian, Cafe Food",North Fremantle,Perth,4.1,692,No
+16597645,Mrs. S,"Patisserie, Cafe Food",Maylands,Perth,4.5,643,No
+18196379,tbsp.,"Sandwich, Coffee and Tea, Cafe Food",Bayswater,Perth,4.7,335,No
+16598431,Tuck Shop Cafe,"Modern Australian, Cafe Food",Northbridge,Perth,4.8,799,No
+16599082,Sayers Sister,"Modern Australian, Coffee and Tea",Perth CBD,Perth,4.6,496,No
+16596036,Ha-Lu,"Japanese, Tapas","Oxford Street, Leederville",Perth,4.8,243,No
+16595894,Ciao Italia,"Italian, Seafood",South Perth,Perth,4.5,509,Yes
+16599032,Piccolo's Corner,"Healthy Food, Cafe Food",West Leederville,Perth,4.5,241,No
+16597513,Pacific Rim Mix Plate,"Hawaiian, Japanese",Applecross,Perth,4.9,213,No
+16600553,Bread In Common,"Mediterranean, Bakery",Fremantle,Perth,4.4,678,No
+16596238,Nao Japanese,"Japanese, Ramen","Hay Street, Perth CBD",Perth,4.7,343,No
+16596903,Moore & Moore,"Coffee and Tea, Modern Australian, Cafe Food","Henry Street, Fremantle",Perth,4.4,380,No
+16600511,Palsaik Namoo,"Korean, BBQ",Perth CBD,Perth,4.5,217,No
+16600889,Little Creatures Fremantle Brewery,"Bar Food, Modern Australian",Fremantle,Perth,4.3,757,No
+16599893,La Veen Coffee & Kitchen,"Modern Australian, Cafe Food","Wellington Street, Northbridge",Perth,4.2,276,No
+18016553,Chu Bakery,Bakery,Highgate,Perth,4.5,243,No
+16599949,Gordon St Garage,"Modern Australian, Cafe Food, Coffee and Tea",West Perth,Perth,4.0,787,No
+16596362,Sayers,"Modern Australian, Cafe Food","Carr Place, Leederville",Perth,4.5,559,No
+16597137,The Raw Kitchen,"Healthy Food, Pizza, Cafe Food",Fremantle,Perth,4.5,385,No
+16598699,Gusto Food,"Desserts, Cafe Food",South Perth,Perth,4.6,398,No
+18016553,Chu Bakery,Bakery,Highgate,Perth,4.5,243,No
+16599949,Gordon St Garage,"Modern Australian, Cafe Food, Coffee and Tea",West Perth,Perth,4.0,787,No
+16596362,Sayers,"Modern Australian, Cafe Food","Carr Place, Leederville",Perth,4.5,559,No
+16597137,The Raw Kitchen,"Healthy Food, Pizza, Cafe Food",Fremantle,Perth,4.5,385,No
+16598699,Gusto Food,"Desserts, Cafe Food",South Perth,Perth,4.6,398,No
+16599765,Harvest Espresso,Cafe Food,Victoria Park,Perth,4.4,443,No
+16596244,Nine Fine Food,"Japanese, Modern Australian",Perth CBD,Perth,4.7,294,No
+16601597,Hylin,"Coffee and Tea, Cafe Food",West Leederville,Perth,4.5,304,No
+16598168,Nobu Perth,"Japanese, Sushi",Burswood,Perth,4.8,663,No
+16596306,The Prophet Lebanese Cafe,"Middle Eastern, Cafe Food",East Victoria Park,Perth,4.6,320,No
+16600113,Toastface Grillah,"Sandwich, Coffee and Tea","Saint Georges Terrace, Perth CBD",Perth,4.5,240,No
+16596815,S & T Thai Gourmet Cafe,Thai,Perth CBD,Perth,4.6,297,No
+16597030,Prego Restaurant,"Italian, Mediterranean",Floreat,Perth,4.6,410,No
+16600681,Pinchos,"Spanish, Tapas",Leederville,Perth,4.4,360,No
+16600128,Typika Artisan Roasters,"Coffee and Tea, Cafe Food",Claremont,Perth,4.2,518,No
+16595944,Duende,"Tapas, Spanish",Leederville,Perth,4.4,635,No
+16595766,Balthazar,"European, Modern Australian",Perth CBD,Perth,4.5,285,No
+16599599,Mr. Munchies Sushi,"Japanese, Sushi, Healthy Food",Mount Lawley,Perth,4.3,341,Yes
+16599597,Is Donburi,Japanese,Northbridge,Perth,4.5,293,No
+16598588,La Cholita,"Mexican, Bar Food",Northbridge,Perth,4.1,565,No
+16595944,Duende,"Tapas, Spanish",Leederville,Perth,4.4,635,No
+16595766,Balthazar,"European, Modern Australian",Perth CBD,Perth,4.5,285,No
+16599599,Mr. Munchies Sushi,"Japanese, Sushi, Healthy Food",Mount Lawley,Perth,4.3,341,Yes
+16599597,Is Donburi,Japanese,Northbridge,Perth,4.5,293,No
+16598588,La Cholita,"Mexican, Bar Food",Northbridge,Perth,4.1,565,No
+16596860,The Bonsai Restaurant & Cafe Lounge,Japanese,Northbridge,Perth,4.6,409,No
+16599574,Lalla Rookh Bar & Eating House,"Italian, Pizza",Perth CBD,Perth,4.3,284,No
+16600792,Brika,"Greek, Tapas, Mediterranean",Perth CBD,Perth,4.2,356,Yes
+16600326,Mary Street Bakery,Bakery,Highgate,Perth,4.0,518,No
+16598048,P'tite Ardoise Bistro,French,Perth CBD,Perth,4.6,360,No
+16601401,Flora & Fauna,"Coffee and Tea, Cafe Food",Northbridge,Perth,4.3,169,No
+16598837,Run Amuk,Fast Food,"Orient Street, South Fremantle",Perth,4.9,341,No
+16598045,Bivouac Canteen & Bar,"Mediterranean, Middle Eastern, Tapas",Northbridge,Perth,4.5,369,No
+16597765,Ootong & Lincoln,"Modern Australian, Burger, Sandwich, Coffee and Tea, Cafe Food",South Fremantle,Perth,4.4,343,No
+16596635,Andaluz Bar & Tapas,"Spanish, Tapas",Perth CBD,Perth,4.4,276,No
+16597791,The Attic Fremantle,Cafe Food,Fremantle,Perth,4.4,240,No
+16600310,Little Bird Cafe,"Australian, Cafe Food",Northbridge,Perth,4.2,275,No
+16596818,Toast,"Coffee and Tea, Sandwich, Cafe Food",East Perth,Perth,4.2,505,No
+16596980,Clarences,"Tapas, Modern Australian",Mount Lawley,Perth,4.4,316,No
+16595831,C Restaurant,"Modern Australian, European",Perth CBD,Perth,4.1,892,No
+16597791,The Attic Fremantle,Cafe Food,Fremantle,Perth,4.4,240,No
+16600310,Little Bird Cafe,"Australian, Cafe Food",Northbridge,Perth,4.2,275,No
+16596818,Toast,"Coffee and Tea, Sandwich, Cafe Food",East Perth,Perth,4.2,505,No
+16596980,Clarences,"Tapas, Modern Australian",Mount Lawley,Perth,4.4,316,No
+16595831,C Restaurant,"Modern Australian, European",Perth CBD,Perth,4.1,892,No
+16596581,Alfred's Kitchen,"Burger, Fast Food",Guildford,Perth,4.5,338,No
+16599234,Superstar Waffles,"Desserts, Coffee and Tea",Northbridge,Perth,4.2,276,No
+16596548,Hawker's Cuisine,"Chinese, Malaysian",Northbridge,Perth,4.5,252,Yes
+16597128,Restaurant Jun,"Japanese, Sushi",Perth CBD,Perth,4.4,163,No
+16596534,West End Deli,Cafe Food,West Perth,Perth,4.3,355,No
+16596768,Sherbet Cafe & Bake Shop,"Bakery, Coffee and Tea","Whatley Crescent, Maylands",Perth,4.7,257,No
+16596072,Il Lido Italian Canteen,Italian,Cottesloe,Perth,4.3,414,No
+16596945,The Little Pantry,"Modern Australian, Cafe Food",Subiaco,Perth,4.4,217,No
+16599918,Jamie's Italian,Italian,Perth CBD,Perth,3.8,1473,No
+16597087,Kitsch Bar,"Asian, Street Food",Leederville,Perth,4.2,352,No
+16596002,Galileo Buona Cucina,Italian,Shenton Park,Perth,4.8,207,No
+16599146,The Merrywell,"American, Burger, Bar Food",Burswood,Perth,4.0,619,No
+16596981,V Burger Bar,Burger,East Victoria Park,Perth,4.4,329,No
+16596567,The Imp,"Modern Australian, Cafe Food",East Victoria Park,Perth,4.3,456,No
+16596448,Tony Roma's,"American, Burger, Steak, BBQ",Perth CBD,Perth,4.2,407,No
+16596002,Galileo Buona Cucina,Italian,Shenton Park,Perth,4.8,207,No
+16599146,The Merrywell,"American, Burger, Bar Food",Burswood,Perth,4.0,619,No
+16596981,V Burger Bar,Burger,East Victoria Park,Perth,4.4,329,No
+16596567,The Imp,"Modern Australian, Cafe Food",East Victoria Park,Perth,4.3,456,No
+16596448,Tony Roma's,"American, Burger, Steak, BBQ",Perth CBD,Perth,4.2,407,No
+16596326,Ria Malay Kitchen,"Malaysian, Asian",Leederville,Perth,4.2,355,No
+16598952,el PÚBLICO,"Mexican, Bar Food",Highgate,Perth,4.2,372,No
+16598876,Aisuru Sushi,"Japanese, Sushi",Northbridge,Perth,4.3,372,No
+16597131,Cafe Elixir,Cafe Food,Wanneroo,Perth,4.5,415,No
+16598601,Chinta,"Beverages, Cafe Food","Scarborough Beach Road, North Perth",Perth,4.1,290,No
+16596479,Voyage Kitchen,"Modern Australian, Cafe Food",Sorrento,Perth,4.3,403,No
+16598976,Marumo,"Japanese, Seafood, Modern Australian",Nedlands,Perth,4.9,141,No
+16596234,Must Winebar,Modern Australian,Highgate,Perth,4.5,316,No
+16602022,James Parker Sushi X Sake,"Japanese, Sushi",Northbridge,Perth,4.3,155,No
+16599605,The Apple Daily Bar & Eating House,"Asian, Fusion",Perth CBD,Perth,4.3,234,No
+18156128,Petition Kitchen,"European, Australian",Perth CBD,Perth,4.2,198,No
+16596049,Hanami Japanese Restaurant,"Japanese, Sushi",Mount Lawley,Perth,4.3,225,No
+16597743,Rockpool Bar & Grill,"Steak, Modern Australian, Bar Food",Burswood,Perth,4.2,791,No
+16601688,Tropico,"Tapas, Modern Australian, Pizza",North Beach,Perth,4.0,302,No
+16599238,Kuza Urban Japanese Food,"Japanese, Sushi, Asian",Victoria Park,Perth,4.2,293,No
+16577492,Chin Chin,"Thai, Asian Fusion",CBD,Melbourne,4.6,3205,No
+16573665,The Hardware Societe,"French, Cafe Food, Coffee and Tea",CBD,Melbourne,4.6,2104,No
+16585905,Tipo 00,Italian,CBD,Melbourne,4.9,721,No
+16583098,Lune Croissanterie,"Bakery, French",Fitzroy,Melbourne,4.9,753,No
+16582897,Supernormal,"Asian, Fusion",CBD,Melbourne,4.5,1022,No
+16582069,Jinda Thai Restaurant,Thai,Abbotsford,Melbourne,4.7,1034,No
+18423923,Humble Rays,"Coffee and Tea, Cafe Food, Asian Fusion",Carlton,Melbourne,4.8,829,No
+18449476,Calia,"Japanese, Australian, Asian",Emporium Melbourne,Melbourne,4.5,676,Yes
+16582887,Rice Paper Scissors,"Asian Fusion, Tapas",CBD,Melbourne,4.8,992,Yes
+18515006,Kisumé,Japanese,CBD,Melbourne,4.5,534,No
+16581560,Operator25,"Coffee and Tea, Cafe Food",CBD,Melbourne,4.3,818,No
+16577212,Beatrix,"Coffee and Tea, Bakery",North Melbourne,Melbourne,4.9,384,No
+16577214,Manchester Press,"Coffee and Tea, Cafe Food",CBD,Melbourne,4.4,1143,No
+16582573,Mr. Miyagi,"Asian, Japanese",Windsor,Melbourne,4.7,907,No
+16575238,Mamasita,"Latin American, Mexican",CBD,Melbourne,4.4,1826,No
+16585400,Hakata Gensuke Ramen Professionals,"Ramen, Japanese",CBD,Melbourne,4.7,844,No
+16713362,Serotonin Eatery,"Cafe Food, Healthy Food, Vegan",Richmond,Melbourne,4.6,901,Yes
+16578739,ChangGo,"Korean BBQ, Korean",CBD,Melbourne,4.5,414,No
+18316755,Higher Ground,"Cafe Food, Coffee and Tea",CBD,Melbourne,4.2,843,No
+16573377,Seven Seeds,"Coffee and Tea, Cafe Food",Carlton,Melbourne,4.4,945,No
+16585400,Hakata Gensuke Ramen Professionals,"Ramen, Japanese",CBD,Melbourne,4.7,844,No
+16713362,Serotonin Eatery,"Cafe Food, Healthy Food, Vegan",Richmond,Melbourne,4.6,901,Yes
+16578739,ChangGo,"Korean BBQ, Korean",CBD,Melbourne,4.5,414,No
+18316755,Higher Ground,"Cafe Food, Coffee and Tea",CBD,Melbourne,4.2,843,No
+16573377,Seven Seeds,"Coffee and Tea, Cafe Food",Carlton,Melbourne,4.4,945,No
+16581462,The Grain Store,"European, Coffee and Tea, Cafe Food",CBD,Melbourne,4.5,800,No
+16580028,Wonderbao,"Chinese, Taiwanese",CBD,Melbourne,4.6,773,No
+16578345,San Telmo,Steak,CBD,Melbourne,4.6,768,No
+16581005,Top Paddock,"Coffee and Tea, Cafe Food",Richmond,Melbourne,4.5,1474,No
+16573759,Le Petit Gateau,"French, Desserts, Coffee and Tea",CBD,Melbourne,4.9,350,No
+16572962,+39 Pizzeria,"Pizza, Italian",CBD,Melbourne,4.6,808,No
+18138489,Brick Lane,"Cafe Food, Coffee and Tea",CBD,Melbourne,4.5,383,No
+16571189,Cumulus Inc.,"Modern European, Contemporary",CBD,Melbourne,4.7,1124,No
+16571938,MoVida Bar De Tapas,"Spanish, Tapas",CBD,Melbourne,4.7,899,No
+16572612,Vue de monde,"Australian, Contemporary",CBD,Melbourne,4.9,986,No
+16571240,DOC Pizza & Mozzarella Bar - Carlton,"Italian, Pizza",Carlton,Melbourne,4.6,924,No
+18584637,Dodee Paidang,Thai,CBD,Melbourne,4.6,473,Yes
+16581252,Industry Beans,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,4.5,624,Yes
+16578793,Patricia Coffee Brewers,Coffee and Tea,CBD,Melbourne,4.9,364,No
+16586014,Minamishima,"Japanese, Sushi",Richmond,Melbourne,4.9,293,No
+16571240,DOC Pizza & Mozzarella Bar - Carlton,"Italian, Pizza",Carlton,Melbourne,4.6,924,No
+18584637,Dodee Paidang,Thai,CBD,Melbourne,4.6,473,Yes
+16581252,Industry Beans,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,4.5,624,Yes
+16578793,Patricia Coffee Brewers,Coffee and Tea,CBD,Melbourne,4.9,364,No
+16586014,Minamishima,"Japanese, Sushi",Richmond,Melbourne,4.9,293,No
+16574687,Journeyman,"Coffee and Tea, Cafe Food",Windsor,Melbourne,4.7,837,No
+16572320,Shira Nui,"Sushi, Japanese",Glen Waverley,Melbourne,4.8,422,No
+16572269,Sakura Kaiten Sushi,"Sushi, Japanese",CBD,Melbourne,4.6,436,No
+17881527,Dexter,"American, BBQ",Preston,Melbourne,4.9,684,No
+16582574,Hinoki Japanese Pantry,"Japanese, Sushi",Fitzroy,Melbourne,4.9,270,No
+18418602,Shanklin Cafe,"Modern Australian, Coffee and Tea, Cafe Food",Hawthorn,Melbourne,4.8,523,Yes
+16576154,Naked For Satan,Bar Food,Fitzroy,Melbourne,4.6,874,No
+16576105,Guhng,"Korean, Korean BBQ",CBD,Melbourne,4.4,440,No
+16585008,Addict Food & Coffee,"Coffee and Tea, Cafe Food",Fitzroy,Melbourne,4.6,567,No
+16572688,Brother Baba Budan,Coffee and Tea,CBD,Melbourne,4.6,544,No
+16586349,Little Rogue,Coffee and Tea,CBD,Melbourne,4.8,332,No
+16579706,Gypsy & Pig,Japanese,CBD,Melbourne,4.5,274,No
+16579873,Shimbashi Soba & Sake Bar,"Japanese, Tapas",CBD,Melbourne,4.6,368,No
+18303417,White Mojo Speciality Coffee & Roaster,"Cafe Food, Fusion, Coffee and Tea",CBD,Melbourne,4.2,707,Yes
+16571861,The Meat & Wine Co,"BBQ, Steak, Modern Australian","Freshwater Place, Southbank",Melbourne,4.4,934,No
+16586349,Little Rogue,Coffee and Tea,CBD,Melbourne,4.8,332,No
+16579706,Gypsy & Pig,Japanese,CBD,Melbourne,4.5,274,No
+16579873,Shimbashi Soba & Sake Bar,"Japanese, Tapas",CBD,Melbourne,4.6,368,No
+18303417,White Mojo Speciality Coffee & Roaster,"Cafe Food, Fusion, Coffee and Tea",CBD,Melbourne,4.2,707,Yes
+16571861,The Meat & Wine Co,"BBQ, Steak, Modern Australian","Freshwater Place, Southbank",Melbourne,4.4,934,No
+16586666,Vertue Coffee Roasters,"Coffee and Tea, Cafe Food",Carlton,Melbourne,4.6,461,No
+16576912,Shanghai Street Dumpling & Mini Juicy Bun,"Chinese, Dumplings",CBD,Melbourne,4.5,725,No
+16584504,Shortstop Coffee & Donuts,"Desserts, Coffee and Tea",CBD,Melbourne,4.6,540,Yes
+16575201,Three Bags Full,"Coffee and Tea, Cafe Food",Abbotsford,Melbourne,4.5,1105,Yes
+18316732,The Crux & Co,"Coffee and Tea, Cafe Food",South Melbourne,Melbourne,4.4,439,No
+16576959,La Belle Miette,"Desserts, French, Coffee and Tea",CBD,Melbourne,4.8,478,No
+16585490,The Glass Den,"Coffee and Tea, Cafe Food",Coburg,Melbourne,4.4,608,No
+16571812,Maha Restaurant,Middle Eastern,CBD,Melbourne,4.7,931,No
+16577335,Chez Dré,"Cafe Food, Bakery, Patisserie",South Melbourne,Melbourne,4.4,1184,Yes
+17849632,Hash Specialty Coffee,"Coffee and Tea, Cafe Food",CBD,Melbourne,4.2,662,Yes
+17989264,Faraday's Cage,"Bakery, Coffee and Tea, Cafe Food",Fitzroy,Melbourne,4.7,380,No
+16570776,Auction Rooms,"Coffee and Tea, Cafe Food",North Melbourne,Melbourne,4.4,1080,No
+16582263,Gelato Messina,"Ice Cream, Desserts",Fitzroy,Melbourne,4.9,835,No
+16576477,Purple Peanuts Japanese Cafe,"Japanese, Sushi",CBD,Melbourne,4.6,491,Yes
+16578925,Hell of the North,"French, European",Fitzroy,Melbourne,4.7,418,No
+17989264,Faraday's Cage,"Bakery, Coffee and Tea, Cafe Food",Fitzroy,Melbourne,4.7,380,No
+16570776,Auction Rooms,"Coffee and Tea, Cafe Food",North Melbourne,Melbourne,4.4,1080,No
+16582263,Gelato Messina,"Ice Cream, Desserts",Fitzroy,Melbourne,4.9,835,No
+16576477,Purple Peanuts Japanese Cafe,"Japanese, Sushi",CBD,Melbourne,4.6,491,Yes
+16578925,Hell of the North,"French, European",Fitzroy,Melbourne,4.7,418,No
+16713155,Mörk Chocolate Brew House,Desserts,North Melbourne,Melbourne,4.6,296,No
+16585312,The Kettle Black,"Coffee and Tea, Cafe Food",South Melbourne,Melbourne,4.2,905,No
+16579337,Aka Siro,Japanese,Collingwood,Melbourne,4.8,237,No
+16577469,Joomak,Korean,CBD,Melbourne,4.4,322,Yes
+16570775,Attica,"Australian, Contemporary",Ripponlea,Melbourne,4.8,495,No
+16579424,Breakfast Thieves,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,4.5,471,No
+18567985,Miznon,"Israeli, Mediterranean, Middle Eastern",CBD,Melbourne,4.5,367,No
+16572325,Shoya Nouvelle Wafu Cuisine,"Japanese, Sushi, Japanese BBQ",CBD,Melbourne,4.7,388,No
+16576466,Darac Grill & Bar,"Korean, Asian",CBD,Melbourne,4.5,413,Yes
+16573473,Peko Peko,"Taiwanese, Japanese, Asian",South Melbourne,Melbourne,4.6,514,Yes
+16577331,Burch & Purchese Sweet Studio,Desserts,South Yarra,Melbourne,4.8,484,No
+16579439,CJ Lunch Bar,"Korean, Asian, Hot Pot",CBD,Melbourne,4.5,334,No
+18198271,Ichi Ni Nana Izakaya,"Sushi, Japanese",Fitzroy,Melbourne,4.4,384,Yes
+16573419,Coda,"Asian, Fusion",CBD,Melbourne,4.6,563,No
+16583132,Wagyu Ya,"Japanese, Steak, Japanese BBQ",South Yarra,Melbourne,4.7,389,No
+16564875,The Grounds of Alexandria Cafe,"Coffee and Tea, Salad, Poké, Cafe Food","The Grounds of Alexandria, Alexandria",Sydney,4.4,1242,No
+18347530,Kobe Wagyu Yakiniku,"Japanese BBQ, BBQ, Healthy Food, Japanese, Seafood, Steak, Asian",CBD,Sydney,4.5,631,No
+16566986,Devon,"Coffee and Tea, Cafe Food",Surry Hills,Sydney,4.5,583,No
+16564139,Café Cre Asion,"Desserts, Cafe Food, Coffee and Tea",CBD,Sydney,4.8,414,No
+16564570,Sokyo,Japanese,"The Star, Pyrmont",Sydney,4.8,572,No
+16565634,Mr. Wong,"Cantonese, Chinese, Yum Cha","Establishment, CBD",Sydney,4.5,647,No
+16562756,Mappen Noodle Restaurant,"Japanese, Asian","SkyView Shopping Plaza, CBD",Sydney,4.7,367,No
+16567840,Three Williams,"Cafe Food, Coffee and Tea",Redfern,Sydney,4.4,527,No
+15545104,Cafe Oratnek,"Japanese, Asian, Cafe Food, Coffee and Tea",Redfern,Sydney,4.4,253,No
+18241437,KOI Dessert Bar,"Desserts, Modern Australian","Kensington Street, Chippendale",Sydney,4.7,451,No
+16561824,Saké Restaurant & Bar,"Japanese, Sushi","The Rocks Centre, The Rocks ",Sydney,4.5,443,No
+16557398,Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",Surry Hills,Sydney,4.6,453,No
+16559119,Sydney Madang,"Hot Pot, Korean BBQ, BBQ, Korean",CBD,Sydney,4.4,332,No
+16562670,Home Thai,"Thai, Salad",CBD,Sydney,4.6,527,No
+16558450,Masuya Japanese Seafood Restaurant,"Japanese, Hot Pot, Sushi",CBD,Sydney,4.6,193,No
+16559232,Toko,Japanese,Surry Hills,Sydney,4.5,317,No
+15547004,Restaurant Hubert,"French, European",CBD,Sydney,4.9,231,No
+16557552,Chat Thai - Haymarket,"Thai, Salad",Haymarket,Sydney,4.6,497,No
+16569007,Cho Cho San,"Japanese, Asian, Fusion",Potts Point,Sydney,4.5,255,No
+16562527,Bistro Papillon,French,CBD,Sydney,4.8,159,No
+16559232,Toko,Japanese,Surry Hills,Sydney,4.5,317,No
+15547004,Restaurant Hubert,"French, European",CBD,Sydney,4.9,231,No
+16557552,Chat Thai - Haymarket,"Thai, Salad",Haymarket,Sydney,4.6,497,No
+16569007,Cho Cho San,"Japanese, Asian, Fusion",Potts Point,Sydney,4.5,255,No
+16562527,Bistro Papillon,French,CBD,Sydney,4.8,159,No
+16557481,Cafe Sydney,"Seafood, Modern Australian",CBD,Sydney,4.6,372,No
+16558268,La Renaissance Cafe Patisserie,"Desserts, Bakery, French, Patisserie, Cafe Food, Coffee and Tea",The Rocks,Sydney,4.8,238,No
+16560990,Black Star Pastry,"Bakery, Desserts, Coffee and Tea",Newtown,Sydney,4.6,509,No
+16559790,Rockpool Bar & Grill,"Seafood, Steak, Modern Australian, Poké",CBD,Sydney,4.6,396,No
+16569454,LuMi Bar & Dining,"Italian, Japanese",Pyrmont,Sydney,4.9,197,No
+16562187,Le Monde,Modern Australian,Surry Hills,Sydney,4.5,220,No
+16566463,Rustic Pearl,"Turkish, Cafe Food, Coffee and Tea",Surry Hills,Sydney,4.7,227,No
+16567979,Celsius Coffee Co,"Cafe Food, Coffee and Tea",Kirribilli,Sydney,4.4,227,No
+16557237,Bar Luca,"Burger, Modern Australian",CBD,Sydney,4.7,311,No
+16559171,Tetsuya's,Japanese,CBD,Sydney,4.9,330,No
+16563159,Ms. G's,"Asian, Vietnamese, Salad",Potts Point,Sydney,4.5,469,No
+16566109,Ippudo,"Japanese, Ramen","Westfield Pitt Street Mall, CBD",Sydney,4.5,603,No
+16558798,Quay,Modern Australian,Circular Quay,Sydney,4.9,451,No
+16566176,Kepos Street Kitchen,Middle Eastern,Redfern,Sydney,4.6,284,No
+16564684,Buffalo Dining Club,Italian,Darlinghurst,Sydney,4.5,192,No
+16563159,Ms. G's,"Asian, Vietnamese, Salad",Potts Point,Sydney,4.5,469,No
+16566109,Ippudo,"Japanese, Ramen","Westfield Pitt Street Mall, CBD",Sydney,4.5,603,No
+16558798,Quay,Modern Australian,Circular Quay,Sydney,4.9,451,No
+16566176,Kepos Street Kitchen,Middle Eastern,Redfern,Sydney,4.6,284,No
+16564684,Buffalo Dining Club,Italian,Darlinghurst,Sydney,4.5,192,No
+16559908,Hurricane's Grill- Darling Harbour,"Steak, Modern Australian, Salad","Harbourside Shopping Centre, Darling Harbour",Sydney,4.4,468,Yes
+16568099,Cuckoo Callay,"Coffee and Tea, Cafe Food",Newtown,Sydney,4.6,366,No
+16569020,Bowery Lane,"Modern Australian, Cafe Food","Wintergarden, CBD",Sydney,4.4,214,No
+16568165,Brewtown Newtown,"Cafe Food, Coffee and Tea",Newtown,Sydney,4.4,446,No
+16562433,Cow & The Moon,"Ice Cream, Desserts, Coffee and Tea",Enmore,Sydney,4.9,355,No
+16564828,Reuben Hills,"Cafe Food, Coffee and Tea, Fried Chicken",Surry Hills,Sydney,4.3,452,No
+16563677,Circa,"Cafe Food, Coffee and Tea",Parramatta,Sydney,4.7,412,No
+16561698,Gumshara Ramen,"Ramen, Japanese","Harbour Plaza, Chinatown",Sydney,4.4,379,No
+16559086,Suminoya Japanese,Japanese BBQ,CBD,Sydney,4.5,126,No
+16561309,Revolver,"Coffee and Tea, Cafe Food",Annandale,Sydney,4.5,245,No
+17743923,Juan Bowl & Tea,"Japanese, Tea",Redfern,Sydney,4.5,122,No
+15546911,Flower Child,"Bakery, Cafe Food, Coffee and Tea","Westfield Chatswood, Chatswood",Sydney,4.4,275,No
+18394951,Cuppa Flower,"Cafe Food, Coffee and Tea",Waterloo,Sydney,4.2,163,No
+16570446,Belly Bao,"Taiwanese, Street Food",Newtown,Sydney,4.6,199,No
+17744148,Ho Jiak Haymarket 好吃禧市,"Malaysian, Asian, Chinese, Asian Fusion, Singaporean",Haymarket,Sydney,4.8,221,No
+17743923,Juan Bowl & Tea,"Japanese, Tea",Redfern,Sydney,4.5,122,No
+15546911,Flower Child,"Bakery, Cafe Food, Coffee and Tea","Westfield Chatswood, Chatswood",Sydney,4.4,275,No
+18394951,Cuppa Flower,"Cafe Food, Coffee and Tea",Waterloo,Sydney,4.2,163,No
+16570446,Belly Bao,"Taiwanese, Street Food",Newtown,Sydney,4.6,199,No
+17744148,Ho Jiak Haymarket 好吃禧市,"Malaysian, Asian, Chinese, Asian Fusion, Singaporean",Haymarket,Sydney,4.8,221,No
+16566535,Lorraine's Patisserie,"Desserts, Bakery","Ivy, CBD",Sydney,4.9,111,No
+16566547,Oh! Matcha,"Japanese, Cafe Food, Coffee and Tea","Regent Place Arcade, CBD",Sydney,4.4,372,No
+18220980,Black Star Pastry,"Bakery, Desserts, Coffee and Tea","The Galeries, CBD",Sydney,4.7,230,No
+17742790,Meet Mica,"Healthy Food, Seafood, Fusion, Japanese, Contemporary, Asian, Coffee and Tea, Cafe Food",Surry Hills,Sydney,4.2,174,No
+16562675,Chefs Gallery Town Hall,Chinese,"Regent Place Arcade, CBD",Sydney,4.4,518,No
+16557570,China Doll,"Asian, Chinese",Woolloomooloo,Sydney,4.6,263,No
+16564699,The Baxter Inn,Bar Food,CBD,Sydney,4.8,142,No
+16558906,Ryo's Noodles,"Japanese, Ramen",Crows Nest,Sydney,4.7,263,No
+16569877,Yasaka Ramen,"Japanese, Ramen",CBD,Sydney,4.2,265,No
+16558421,Mamak,Malaysian,Haymarket,Sydney,4.5,669,Yes
+16566248,Méjico,"Mexican, Bar Food",CBD,Sydney,4.3,383,No
+16567674,The Paramount Coffee Project,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,4.2,326,No
+16559258,Trio,"Mediterranean, Cafe Food, Coffee and Tea, Australian, European, Juices, Sandwich, Salad",Bondi Beach,Sydney,4.7,214,No
+15545439,Manpuku - Chatswood,"Japanese, Ramen",Chatswood,Sydney,4.9,196,No
+16562652,Mad Spuds Cafe,"Irish, Healthy Food, Salad, Cafe Food, Coffee and Tea",Surry Hills,Sydney,4.5,257,No
+16566248,Méjico,"Mexican, Bar Food",CBD,Sydney,4.3,383,No
+16567674,The Paramount Coffee Project,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,4.2,326,No
+16559258,Trio,"Mediterranean, Cafe Food, Coffee and Tea, Australian, European, Juices, Sandwich, Salad",Bondi Beach,Sydney,4.7,214,No
+15545439,Manpuku - Chatswood,"Japanese, Ramen",Chatswood,Sydney,4.9,196,No
+16562652,Mad Spuds Cafe,"Irish, Healthy Food, Salad, Cafe Food, Coffee and Tea",Surry Hills,Sydney,4.5,257,No
+16568015,Social Brew Cafe,"Cafe Food, Coffee and Tea",Pyrmont,Sydney,4.7,185,No
+16557807,Encasa,Spanish,Haymarket,Sydney,4.5,191,Yes
+16557147,Aria,Modern Australian,Circular Quay,Sydney,4.4,329,No
+16559500,Miso Japanese Restaurant,Japanese,"World Square, CBD",Sydney,4.5,201,No
+16557718,Din Tai Fung,"Chinese, Taiwanese, Yum Cha","World Square, CBD",Sydney,4.4,572,No
+16561338,The Winery,Modern Australian,Surry Hills,Sydney,4.4,258,No
+16568476,La Mamma del Gelato Anita,Ice Cream,"Central Park, Chippendale",Sydney,4.9,231,No
+16569582,Chaco Ramen,Ramen,Darlinghurst,Sydney,4.5,108,No
+16563069,Felix Bistro and Bar,French,"Ivy, CBD",Sydney,4.5,255,No
+16564479,BLACK Bar & Grill,"Steak, Modern Australian","The Star, Pyrmont",Sydney,4.5,256,No
+15546922,Social Hideout,"Juices, Desserts, Modern Australian, Salad, Coffee and Tea, Vegetarian, Cafe Food",Parramatta,Sydney,4.2,251,No
+18498289,Concrete Jungle,"Cafe Food, Coffee and Tea",Chippendale,Sydney,4.2,135,No
+16565382,Hartsyard,Modern Australian,Newtown,Sydney,4.5,233,No
+16559009,Single O,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,4.6,162,No
+16557948,glass brasserie & wine bar,"Modern Australian, French, Tapas","Hilton Sydney, CBD",Sydney,4.5,244,No
