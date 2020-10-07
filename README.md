@@ -1,10 +1,13 @@
 # Group Project
 
 
+
 An analysis of Australian dining habits using data from Zomato and Gourmet Traveller.
 
 
+
 Team Members: Mickey Sandhu, Brad Smith and Nelson Paulo Balino
+
 
 
 Proposal: This project analyses dining habits in three Australian cities (Melbourne, Sydney, and Perth). We will focus on two types of analysis: popularity and correlation. In particular the following questions will be posited;
@@ -15,15 +18,23 @@ Proposal: This project analyses dining habits in three Australian cities (Melbou
 5.	Whether there is any similarities between popular restaurants according to Zomato and those judged Australia's finest by Gourmet Traveller (2019)
 
 
+
 Data Sources:
--Zomato API
--https://developers.zomato.com/documentation#!/
 
--Google Maps API
--https://developers.google.com/maps/documentation
+Zomato API
 
--The Top 100 Restaurants in Australia (2019)
--https://www.gourmettraveller.com.au/dining-out/restaurant-reviews/top-100-restaurants-australia-2019-16634
+https://developers.zomato.com/documentation#!/
+
+
+Google Maps API
+
+https://developers.google.com/maps/documentation
+
+
+The Top 100 Restaurants in Australia (2019)
+
+https://www.gourmettraveller.com.au/dining-out/restaurant-reviews/top-100-restaurants-australia-2019-16634
+
 
 
 Task Breakdown:
