@@ -16,12 +16,14 @@ Proposal: This project analyses dining habits in three Australian cities (Melbou
 
 
 Data Sources:
-Zomato API
-https://developers.zomato.com/documentation#!/
-Google Maps API
-https://developers.google.com/maps/documentation
-The Top 100 Restaurants in Australia (2019)
-https://www.gourmettraveller.com.au/dining-out/restaurant-reviews/top-100-restaurants-australia-2019-16634
+-Zomato API
+-https://developers.zomato.com/documentation#!/
+
+-Google Maps API
+-https://developers.google.com/maps/documentation
+
+-The Top 100 Restaurants in Australia (2019)
+-https://www.gourmettraveller.com.au/dining-out/restaurant-reviews/top-100-restaurants-australia-2019-16634
 
 
 Task Breakdown:
