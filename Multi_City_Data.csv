@@ -1,4 +1,204 @@
 Restaurant ID,Name,Cuisine,Locality,City,Latitude,Longitude,Rating,Total Number Ratings,Delivery
+16577492,Chin Chin,"Thai, Asian Fusion",CBD,Melbourne,-37.8155645773,144.9703757465,4.6,3206,No
+16585905,Tipo 00,Italian,CBD,Melbourne,-37.8135277429,144.9619733915,4.9,721,No
+16577212,Beatrix,"Coffee and Tea, Bakery",North Melbourne,Melbourne,-37.8023673299,144.9444753304,4.9,384,No
+16583098,Lune Croissanterie,"Bakery, French",Fitzroy,Melbourne,-37.7960258682,144.9799244106,4.9,753,No
+16573665,The Hardware Societe,"French, Cafe Food, Coffee and Tea",CBD,Melbourne,-37.8120317331,144.9604676664,4.6,2103,No
+16582897,Supernormal,"Asian, Fusion",CBD,Melbourne,-37.8160479531,144.9683724716,4.5,1022,No
+18423923,Humble Rays,"Coffee and Tea, Cafe Food, Asian Fusion",Carlton,Melbourne,-37.8048177217,144.9615536258,4.8,829,No
+16582887,Rice Paper Scissors,"Asian Fusion, Tapas",CBD,Melbourne,-37.8143130000,144.9614020000,4.8,991,Yes
+16582069,Jinda Thai Restaurant,Thai,Abbotsford,Melbourne,-37.8093087478,144.9923685193,4.7,1034,No
+18449476,Calia,"Japanese, Australian, Asian",Emporium Melbourne,Melbourne,-37.8127461027,144.9639669433,4.5,676,Yes
+18515006,Kisumé,Japanese,CBD,Melbourne,-37.8160916554,144.9686400220,4.5,534,No
+16581560,Operator25,"Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8106103896,144.9571014941,4.3,818,No
+16577214,Manchester Press,"Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8139099517,144.9621769041,4.4,1143,No
+16582573,Mr. Miyagi,"Asian, Japanese",Windsor,Melbourne,-37.8542571942,144.9928734452,4.7,907,No
+16575238,Mamasita,"Latin American, Mexican",CBD,Melbourne,-37.8136270697,144.9734364823,4.4,1826,No
+16713362,Serotonin Eatery,"Cafe Food, Healthy Food, Vegan",Richmond,Melbourne,-37.8281773961,145.0091433898,4.6,901,Yes
+18316755,Higher Ground,"Cafe Food, Coffee and Tea",CBD,Melbourne,-37.8159708780,144.9530480057,4.2,843,No
+16585400,Hakata Gensuke Ramen Professionals,"Ramen, Japanese",CBD,Melbourne,-37.8123360761,144.9680422247,4.7,844,No
+16580028,Wonderbao,"Chinese, Taiwanese",CBD,Melbourne,-37.8089773737,144.9627716839,4.7,773,No
+16578739,ChangGo,"Korean BBQ, Korean",CBD,Melbourne,-37.8095426424,144.9617829546,4.5,414,No
+16581005,Top Paddock,"Coffee and Tea, Cafe Food",Richmond,Melbourne,-37.8328107891,144.9964692816,4.5,1474,No
+16578345,San Telmo,Steak,CBD,Melbourne,-37.8122960798,144.9723887444,4.6,768,No
+16573377,Seven Seeds,"Coffee and Tea, Cafe Food",Carlton,Melbourne,-37.8029400666,144.9590373784,4.4,945,No
+16581462,The Grain Store,"European, Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8197146191,144.9566186965,4.5,800,No
+16573759,Le Petit Gateau,"French, Desserts, Coffee and Tea",CBD,Melbourne,-37.8163464526,144.9596324936,4.9,350,No
+16572962,+39 Pizzeria,"Pizza, Italian",CBD,Melbourne,-37.8134906609,144.9618449807,4.6,808,No
+16571189,Cumulus Inc.,"Modern European, Contemporary",CBD,Melbourne,-37.8147943480,144.9731357396,4.7,1124,No
+16571938,MoVida Bar De Tapas,"Spanish, Tapas",CBD,Melbourne,-37.8167026904,144.9691895396,4.7,899,No
+18138489,Brick Lane,"Cafe Food, Coffee and Tea",CBD,Melbourne,-37.8114013232,144.9598075077,4.5,383,No
+16572612,Vue de monde,"Australian, Contemporary",CBD,Melbourne,-37.8189544974,144.9579336494,4.9,986,No
+18584637,Dodee Paidang,Thai,CBD,Melbourne,-37.8157595172,144.9631257355,4.6,473,Yes
+16571240,DOC Pizza & Mozzarella Bar - Carlton,"Italian, Pizza",Carlton,Melbourne,-37.7989620774,144.9685729668,4.6,924,No
+16581252,Industry Beans,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,-37.7961752910,144.9776770547,4.5,624,Yes
+16586014,Minamishima,"Japanese, Sushi",Richmond,Melbourne,-37.8198314176,145.0051938370,4.9,293,No
+16574687,Journeyman,"Coffee and Tea, Cafe Food",Windsor,Melbourne,-37.8522378412,144.9932469428,4.7,837,No
+16572269,Sakura Kaiten Sushi,"Sushi, Japanese",CBD,Melbourne,-37.8128928430,144.9717513844,4.6,436,No
+16578793,Patricia Coffee Brewers,Coffee and Tea,CBD,Melbourne,-37.8147135635,144.9582602084,4.9,364,No
+17881527,Dexter,"American, BBQ",Preston,Melbourne,-37.7361956460,145.0044562295,4.9,683,No
+16576154,Naked For Satan,Bar Food,Fitzroy,Melbourne,-37.7987986192,144.9783268198,4.6,874,No
+16582574,Hinoki Japanese Pantry,"Japanese, Sushi",Fitzroy,Melbourne,-37.8005961095,144.9838920683,4.9,272,No
+18418602,Shanklin Cafe,"Modern Australian, Coffee and Tea, Cafe Food",Hawthorn,Melbourne,-37.8331123984,145.0473296642,4.8,523,Yes
+16576105,Guhng,"Korean, Korean BBQ",CBD,Melbourne,-37.8153275234,144.9617051706,4.4,440,No
+16572688,Brother Baba Budan,Coffee and Tea,CBD,Melbourne,-37.8135166183,144.9621061608,4.6,544,No
+16585008,Addict Food & Coffee,"Coffee and Tea, Cafe Food",Fitzroy,Melbourne,-37.7989273723,144.9832097814,4.6,567,No
+16579706,Gypsy & Pig,Japanese,CBD,Melbourne,-37.8117793049,144.9603047222,4.5,274,No
+16572320,Shira Nui,"Sushi, Japanese",Glen Waverley,Melbourne,-37.8788198823,145.1657683030,4.8,422,No
+16586349,Little Rogue,Coffee and Tea,CBD,Melbourne,-37.8110254587,144.9640517682,4.7,332,No
+16586666,Vertue Coffee Roasters,"Coffee and Tea, Cafe Food",Carlton,Melbourne,-37.7976888425,144.9683121219,4.6,461,No
+16579873,Shimbashi Soba & Sake Bar,"Japanese, Tapas",CBD,Melbourne,-37.8113361629,144.9714006856,4.6,368,No
+16576912,Shanghai Street Dumpling & Mini Juicy Bun,"Chinese, Dumplings",CBD,Melbourne,-37.8133039261,144.9624219909,4.5,724,No
+18303417,White Mojo Speciality Coffee & Roaster,"Cafe Food, Fusion, Coffee and Tea",CBD,Melbourne,-37.8121662904,144.9605266750,4.2,707,Yes
+16575201,Three Bags Full,"Coffee and Tea, Cafe Food",Abbotsford,Melbourne,-37.8074476302,144.9965189025,4.5,1105,Yes
+16571861,The Meat & Wine Co,"BBQ, Steak, Modern Australian","Freshwater Place, Southbank",Melbourne,-37.8215086870,144.9620166421,4.4,933,No
+18316732,The Crux & Co,"Coffee and Tea, Cafe Food",South Melbourne,Melbourne,-37.8346574978,144.9718757719,4.4,439,No
+16576959,La Belle Miette,"Desserts, French, Coffee and Tea",CBD,Melbourne,-37.8140071590,144.9614460021,4.8,478,No
+16713155,Mörk Chocolate Brew House,Desserts,North Melbourne,Melbourne,-37.8015365623,144.9500627071,4.6,296,No
+16585490,The Glass Den,"Coffee and Tea, Cafe Food",Coburg,Melbourne,-37.7403753334,144.9688690156,4.4,608,No
+16577335,Chez Dré,"Cafe Food, Bakery, Patisserie",South Melbourne,Melbourne,-37.8327408812,144.9581800774,4.4,1184,Yes
+17989264,Faraday's Cage,"Bakery, Coffee and Tea, Cafe Food",Fitzroy,Melbourne,-37.7993758872,144.9828895927,4.7,380,No
+16570776,Auction Rooms,"Coffee and Tea, Cafe Food",North Melbourne,Melbourne,-37.8025223030,144.9495607987,4.4,1080,No
+17849632,Hash Specialty Coffee,"Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8123249513,144.9605967477,4.2,662,Yes
+16571812,Maha Restaurant,Middle Eastern,CBD,Melbourne,-37.8181668230,144.9626845121,4.7,931,No
+16584504,Shortstop Coffee & Donuts,"Desserts, Coffee and Tea",CBD,Melbourne,-37.8113176213,144.9609662220,4.6,540,Yes
+16582263,Gelato Messina,"Ice Cream, Desserts",Fitzroy,Melbourne,-37.8018912821,144.9836744741,4.9,835,No
+16576477,Purple Peanuts Japanese Cafe,"Japanese, Sushi",CBD,Melbourne,-37.8188464377,144.9545490369,4.6,490,Yes
+16578925,Hell of the North,"French, European",Fitzroy,Melbourne,-37.8003351649,144.9835487455,4.7,418,No
+16585312,The Kettle Black,"Coffee and Tea, Cafe Food",South Melbourne,Melbourne,-37.8341035430,144.9714281783,4.2,905,No
+16577469,Joomak,Korean,CBD,Melbourne,-37.8089405543,144.9633641169,4.4,322,Yes
+16579337,Aka Siro,Japanese,Collingwood,Melbourne,-37.8051562667,144.9855748192,4.8,237,No
+16570775,Attica,"Australian, Contemporary",Ripponlea,Melbourne,-37.8769242618,144.9973121658,4.8,495,No
+16572325,Shoya Nouvelle Wafu Cuisine,"Japanese, Sushi, Japanese BBQ",CBD,Melbourne,-37.8117808942,144.9692287669,4.7,388,No
+18567985,Miznon,"Israeli, Mediterranean, Middle Eastern",CBD,Melbourne,-37.8134546383,144.9611097202,4.5,367,No
+16579424,Breakfast Thieves,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,-37.7963620691,144.9835983664,4.5,471,No
+16571710,Laksa King,"Malaysian, Chinese",Flemington,Melbourne,-37.7877957536,144.9294968694,4.6,1302,No
+16576466,Darac Grill & Bar,"Korean, Asian",CBD,Melbourne,-37.8089763142,144.9620451406,4.4,413,Yes
+16573473,Peko Peko,"Taiwanese, Japanese, Asian",South Melbourne,Melbourne,-37.8318858285,144.9697920308,4.6,514,Yes
+16577331,Burch & Purchese Sweet Studio,Desserts,South Yarra,Melbourne,-37.8377208564,144.9958983064,4.8,484,No
+16579439,CJ Lunch Bar,"Korean, Asian, Hot Pot",CBD,Melbourne,-37.8118423458,144.9603727832,4.5,334,No
+16573419,Coda,"Asian, Fusion",CBD,Melbourne,-37.8158217601,144.9699640274,4.6,562,No
+18198271,Ichi Ni Nana Izakaya,"Sushi, Japanese",Fitzroy,Melbourne,-37.8038190313,144.9774393439,4.4,384,Yes
+16583132,Wagyu Ya,"Japanese, Steak, Japanese BBQ",South Yarra,Melbourne,-37.8390709816,144.9914190173,4.7,389,No
+16577621,Komeyui,"Japanese, Japanese BBQ",South Melbourne,Melbourne,-37.8302880000,144.9538430000,4.7,247,No
+16573067,Cutler & Co,Modern Australian,Fitzroy,Melbourne,-37.8055705717,144.9759430066,4.7,569,No
+16713830,Bibelot,"Desserts, Ice Cream, Cafe Food, Coffee and Tea",South Melbourne,Melbourne,-37.8325692889,144.9582075700,4.8,427,No
+17849363,Grand Lafayette,"Cafe Food, Japanese, Coffee and Tea",Prahran,Melbourne,-37.8516016859,144.9950919673,4.1,422,No
+18097646,Agathé Pâtisserie,"Bakery, Patisserie","South Melbourne Market, South Melbourne",Melbourne,-37.8325827938,144.9569066986,4.9,319,No
+16574818,Proud Mary,"Coffee and Tea, Cafe Food",Collingwood,Melbourne,-37.8023726281,144.9851657823,4.5,894,No
+16571988,Nobu,Japanese,"Crown Melbourne, Southbank",Melbourne,-37.8222756683,144.9598175660,4.5,1022,No
+16576672,LuxBite,"Desserts, Coffee and Tea, Cafe Food",South Yarra,Melbourne,-37.8386086744,144.9877085164,4.5,598,No
+16582655,Om Nom Kitchen - Adelphi Hotel,"Desserts, Modern Australian",CBD,Melbourne,-37.8162095191,144.9683127925,4.3,484,No
+16572155,Punch Lane,"Mediterranean, Modern Australian",CBD,Melbourne,-37.8108116997,144.9713500589,4.8,430,No
+16583248,Pidapipó,"Ice Cream, Desserts",Carlton,Melbourne,-37.7983310261,144.9671862647,4.9,525,No
+16571628,Kenzan Japanese,"Japanese, Sushi",Collins Place,Melbourne,-37.8146303951,144.9727967754,4.6,262,No
+16572235,Rockpool Bar & Grill,"Seafood, Steak, Australian","Crown Melbourne, Southbank",Melbourne,-37.8219695123,144.9603560194,4.5,1094,No
+16581841,Bowery to Williamsburg,"American, Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8162664644,144.9702634290,4.4,470,No
+16574121,Don Don,"Japanese, Asian",CBD,Melbourne,-37.8107603127,144.9635954574,4.6,692,Yes
+16582908,Mugen Ramen & Bar,"Japanese, Ramen",CBD,Melbourne,-37.8172101608,144.9637107924,4.4,349,No
+16586156,The Grand Trailer Park Taverna,"Burger, American",CBD,Melbourne,-37.8121877454,144.9709661678,4.4,668,Yes
+16579874,Two Birds One Stone,"Coffee and Tea, Modern Australian, Cafe Food",South Yarra,Melbourne,-37.8380227104,144.9939158186,4.4,684,No
+16573068,HuTong Dumpling Bar,Chinese,CBD,Melbourne,-37.8119435290,144.9693950638,4.3,1167,No
+18241437,KOI Dessert Bar,"Desserts, Modern Australian","Kensington Street, Chippendale",Sydney,-33.8855402567,151.2017665431,4.7,451,No
+18347530,Kobe Wagyu Yakiniku,"Japanese BBQ, BBQ, Healthy Food, Japanese, Seafood, Steak, Asian",CBD,Sydney,-33.8777330077,151.2054559216,4.5,633,No
+16564875,The Grounds of Alexandria Cafe,"Coffee and Tea, Salad, Poké, Cafe Food","The Grounds of Alexandria, Alexandria",Sydney,-33.9110665786,151.1941245943,4.4,1242,No
+16564139,Café Cre Asion,"Desserts, Cafe Food, Coffee and Tea",CBD,Sydney,-33.8779718367,151.2106550485,4.8,415,No
+16566986,Devon,"Coffee and Tea, Cafe Food",Surry Hills,Sydney,-33.8861726213,151.2076851726,4.5,583,No
+16564570,Sokyo,Japanese,"The Star, Pyrmont",Sydney,-33.8695550746,151.1958998814,4.8,572,No
+16565634,Mr. Wong,"Cantonese, Chinese, Yum Cha","Establishment, CBD",Sydney,-33.8641411959,151.2081414834,4.5,647,No
+16562756,Mappen Noodle Restaurant,"Japanese, Asian","SkyView Shopping Plaza, CBD",Sydney,-33.8761708597,151.2059947103,4.7,367,No
+16567840,Three Williams,"Cafe Food, Coffee and Tea",Redfern,Sydney,-33.8918506105,151.2074561790,4.4,527,No
+16558450,Masuya Japanese Seafood Restaurant,"Japanese, Hot Pot, Sushi",CBD,Sydney,-33.8651392551,151.2097095698,4.6,193,No
+16562670,Home Thai,"Thai, Salad",CBD,Sydney,-33.8745761144,151.2042854726,4.6,528,No
+15545104,Cafe Oratnek,"Japanese, Asian, Cafe Food, Coffee and Tea",Redfern,Sydney,-33.8901158872,151.2044252828,4.5,253,No
+16559119,Sydney Madang,"Hot Pot, Korean BBQ, BBQ, Korean",CBD,Sydney,-33.8760222148,151.2076415867,4.4,332,No
+16557398,Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",Surry Hills,Sydney,-33.8894699144,151.2150052562,4.6,453,No
+15547004,Restaurant Hubert,"French, European",CBD,Sydney,-33.8653806250,151.2104904279,4.9,231,No
+16558798,Quay,Modern Australian,Circular Quay,Sydney,-33.8580292558,151.2099704146,4.9,452,No
+16561824,Saké Restaurant & Bar,"Japanese, Sushi","The Rocks Centre, The Rocks ",Sydney,-33.8590797287,151.2075413391,4.5,443,No
+16559232,Toko,Japanese,Surry Hills,Sydney,-33.8870226320,151.2138793990,4.5,317,No
+16557552,Chat Thai - Haymarket,"Thai, Salad",Haymarket,Sydney,-33.8792377867,151.2063651904,4.6,497,No
+16569007,Cho Cho San,"Japanese, Asian, Fusion",Potts Point,Sydney,-33.8694200000,151.2252580000,4.5,256,No
+16559790,Rockpool Bar & Grill,"Seafood, Steak, Modern Australian, Poké",CBD,Sydney,-33.8660301209,151.2100217119,4.6,397,No
+16562527,Bistro Papillon,French,CBD,Sydney,-33.8680117073,151.2052265927,4.8,159,No
+16557481,Cafe Sydney,"Seafood, Modern Australian",CBD,Sydney,-33.8624022900,151.2108850479,4.6,373,No
+16558268,La Renaissance Cafe Patisserie,"Desserts, Bakery, French, Patisserie, Cafe Food, Coffee and Tea",The Rocks,Sydney,-33.8592097493,151.2084680423,4.8,238,No
+16560990,Black Star Pastry,"Bakery, Desserts, Coffee and Tea",Newtown,Sydney,-33.8971249766,151.1785999686,4.6,509,No
+16562187,Le Monde,Modern Australian,Surry Hills,Sydney,-33.8848062961,151.2112411112,4.5,220,No
+16557237,Bar Luca,"Burger, Modern Australian",CBD,Sydney,-33.8638672496,151.2116377428,4.7,312,No
+16567979,Celsius Coffee Co,"Cafe Food, Coffee and Tea",Kirribilli,Sydney,-33.8494601655,151.2203861028,4.4,228,No
+16569454,LuMi Bar & Dining,"Italian, Japanese",Pyrmont,Sydney,-33.8669045524,151.1973965541,4.9,197,No
+16566463,Rustic Pearl,"Turkish, Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8865252626,151.2137070671,4.7,227,No
+16559171,Tetsuya's,Japanese,CBD,Sydney,-33.8751364638,151.2049677596,4.9,330,No
+16563159,Ms. G's,"Asian, Vietnamese, Salad",Potts Point,Sydney,-33.8726260000,151.2224250000,4.5,469,No
+16566109,Ippudo,"Japanese, Ramen","Westfield Pitt Street Mall, CBD",Sydney,-33.8698329000,151.2089890614,4.5,603,No
+16562433,Cow & The Moon,"Ice Cream, Desserts, Coffee and Tea",Enmore,Sydney,-33.8990000921,151.1720285565,4.9,356,No
+16566176,Kepos Street Kitchen,Middle Eastern,Redfern,Sydney,-33.8968717299,151.2126539648,4.6,284,No
+16564684,Buffalo Dining Club,Italian,Darlinghurst,Sydney,-33.8775420553,151.2219132856,4.5,192,No
+16559908,Hurricane's Grill- Darling Harbour,"Steak, Modern Australian, Salad","Harbourside Shopping Centre, Darling Harbour",Sydney,-33.8708501007,151.1988449469,4.4,468,Yes
+16568099,Cuckoo Callay,"Coffee and Tea, Cafe Food",Newtown,Sydney,-33.8982512197,151.1791830137,4.6,366,No
+16569020,Bowery Lane,"Modern Australian, Cafe Food","Wintergarden, CBD",Sydney,-33.8648204899,151.2098990008,4.4,214,No
+16568165,Brewtown Newtown,"Cafe Food, Coffee and Tea",Newtown,Sydney,-33.8939401356,151.1824492738,4.4,446,No
+16564828,Reuben Hills,"Cafe Food, Coffee and Tea, Fried Chicken",Surry Hills,Sydney,-33.8829278068,151.2110640854,4.3,453,No
+16563677,Circa,"Cafe Food, Coffee and Tea",Parramatta,Sydney,-33.8187340157,151.0051793978,4.7,412,No
+16561698,Gumshara Ramen,"Ramen, Japanese","Harbour Plaza, Chinatown",Sydney,-33.8776790066,151.2036212906,4.4,379,No
+16559086,Suminoya Japanese,Japanese BBQ,CBD,Sydney,-33.8670855065,151.2090044841,4.5,126,No
+16566547,Oh! Matcha,"Japanese, Cafe Food, Coffee and Tea","Regent Place Arcade, CBD",Sydney,-33.8749193393,151.2062062696,4.4,373,No
+16561309,Revolver,"Coffee and Tea, Cafe Food",Annandale,Sydney,-33.8758359907,151.1717811227,4.5,245,No
+15546911,Flower Child,"Bakery, Cafe Food, Coffee and Tea","Westfield Chatswood, Chatswood",Sydney,-33.7965720746,151.1840213835,4.4,275,No
+17743923,Juan Bowl & Tea,"Japanese, Tea",Redfern,Sydney,-33.8931052223,151.2039173394,4.5,122,No
+16564699,The Baxter Inn,Bar Food,CBD,Sydney,-33.8696255053,151.2057985738,4.8,142,No
+16570446,Belly Bao,"Taiwanese, Street Food",Newtown,Sydney,-33.8945184474,151.1825887486,4.6,199,No
+16566535,Lorraine's Patisserie,"Desserts, Bakery","Ivy, CBD",Sydney,-33.8666116843,151.2077032775,4.9,111,No
+18394951,Cuppa Flower,"Cafe Food, Coffee and Tea",Waterloo,Sydney,-33.9023224907,151.2039186805,4.3,163,No
+17744148,Ho Jiak Haymarket 好吃禧市,"Malaysian, Asian, Chinese, Asian Fusion, Singaporean",Haymarket,Sydney,-33.8793410549,151.2039833888,4.8,221,No
+17742790,Meet Mica,"Healthy Food, Seafood, Fusion, Japanese, Contemporary, Asian, Coffee and Tea, Cafe Food",Surry Hills,Sydney,-33.8892197064,151.2081408128,4.2,174,No
+16562675,Chefs Gallery Town Hall,Chinese,"Regent Place Arcade, CBD",Sydney,-33.8748310975,151.2064879015,4.4,518,No
+18220980,Black Star Pastry,"Bakery, Desserts, Coffee and Tea","The Galeries, CBD",Sydney,-33.8724852798,151.2076737732,4.7,230,No
+16557570,China Doll,"Asian, Chinese",Woolloomooloo,Sydney,-33.8684582400,151.2203391641,4.6,263,No
+16558906,Ryo's Noodles,"Japanese, Ramen",Crows Nest,Sydney,-33.8285227553,151.2066414580,4.7,263,No
+16557147,Aria,Modern Australian,Circular Quay,Sydney,-33.8585919411,151.2139528245,4.4,330,No
+16569877,Yasaka Ramen,"Japanese, Ramen",CBD,Sydney,-33.8768458826,151.2083218619,4.2,265,No
+16558421,Mamak,Malaysian,Haymarket,Sydney,-33.8777708641,151.2042884901,4.5,668,Yes
+16566248,Méjico,"Mexican, Bar Food",CBD,Sydney,-33.8660253882,151.2084871531,4.3,383,No
+15545439,Manpuku - Chatswood,"Japanese, Ramen",Chatswood,Sydney,-33.7943935138,151.1895571277,4.9,196,No
+16567674,The Paramount Coffee Project,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8796644978,151.2111123651,4.2,326,No
+16559258,Trio,"Mediterranean, Cafe Food, Coffee and Tea, Australian, European, Juices, Sandwich, Salad",Bondi Beach,Sydney,-33.8934238818,151.2733319029,4.7,214,No
+16562652,Mad Spuds Cafe,"Irish, Healthy Food, Salad, Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8881078168,151.2134810910,4.5,257,No
+16568015,Social Brew Cafe,"Cafe Food, Coffee and Tea",Pyrmont,Sydney,-33.8716649104,151.1952142417,4.7,185,No
+16559009,Single O,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8813913616,151.2097179517,4.6,163,No
+16557807,Encasa,Spanish,Haymarket,Sydney,-33.8786615981,151.2072298676,4.5,191,Yes
+16559500,Miso Japanese Restaurant,Japanese,"World Square, CBD",Sydney,-33.8774323827,151.2071567774,4.5,201,No
+16557718,Din Tai Fung,"Chinese, Taiwanese, Yum Cha","World Square, CBD",Sydney,-33.8776319644,151.2067819387,4.4,574,No
+16561338,The Winery,Modern Australian,Surry Hills,Sydney,-33.8815466774,151.2142984942,4.4,258,No
+16568476,La Mamma del Gelato Anita,Ice Cream,"Central Park, Chippendale",Sydney,-33.8850718252,151.2004720420,4.9,231,No
+16569582,Chaco Ramen,Ramen,Darlinghurst,Sydney,-33.8781611181,151.2154961005,4.5,108,No
+16563069,Felix Bistro and Bar,French,"Ivy, CBD",Sydney,-33.8667074512,151.2076687440,4.5,256,No
+16564479,BLACK Bar & Grill,"Steak, Modern Australian","The Star, Pyrmont",Sydney,-33.8676918393,151.1955314130,4.5,256,No
+16565382,Hartsyard,Modern Australian,Newtown,Sydney,-33.8983753365,151.1769681796,4.5,233,No
+15546922,Social Hideout,"Juices, Desserts, Modern Australian, Salad, Coffee and Tea, Vegetarian, Cafe Food",Parramatta,Sydney,-33.8086430099,151.0062874854,4.2,251,No
+18498289,Concrete Jungle,"Cafe Food, Coffee and Tea",Chippendale,Sydney,-33.8857982687,151.2019445747,4.2,136,No
+16557948,glass brasserie & wine bar,"Modern Australian, French, Tapas","Hilton Sydney, CBD",Sydney,-33.8723811682,151.2075363100,4.5,244,No
+16559833,Gelato Messina,"Desserts, Ice Cream, Beverages",Darlinghurst,Sydney,-33.8780561783,151.2213775143,4.8,338,No
+16563918,El Loco at Excelsior,Mexican,Surry Hills,Sydney,-33.8845315811,151.2109759077,4.3,291,No
+16566183,Mary's,"American, Burger, Fried Chicken",Newtown,Sydney,-33.8960513166,151.1798465252,4.3,487,No
+16559453,The Italian Bowl,Italian,Newtown,Sydney,-33.8960168079,151.1808825284,4.4,254,Yes
+16564601,The Wedge Espresso,"Coffee and Tea, Cafe Food",Glebe,Sydney,-33.8829436721,151.1915161461,4.4,155,No
+16558176,Jazushi,Japanese,Surry Hills,Sydney,-33.8869800482,151.2094631419,4.6,151,No
+16566332,Mr Crackles,"Sandwich, Fast Food, Salad, Fried Chicken, American",Darlinghurst,Sydney,-33.8800113208,151.2159537524,4.5,230,No
+18381614,Auvers,"Cafe Food, Coffee and Tea, Asian Fusion, Modern Australian",Rhodes,Sydney,-33.8283472898,151.0870052129,4.5,244,No
+18494965,Sasaki,Japanese,CBD,Sydney,-33.8780010640,151.2104998156,4.3,67,No
+16559190,Thai Pothong,Thai,Newtown,Sydney,-33.8967821193,151.1797137558,4.7,291,No
+16558549,Masuya Suisan,"Sushi, Japanese",Haymarket,Sydney,-33.8795219827,151.2069894746,4.5,160,No
+16557373,Bodega,"Latin American, Tapas",Surry Hills,Sydney,-33.8863890000,151.2092860000,4.5,194,No
+16558647,Otto Ristorante,Italian,Woolloomooloo,Sydney,-33.8682196627,151.2205148488,4.5,231,No
+16558709,The Restaurant Pendolino,Italian,"The Strand Arcade, CBD",Sydney,-33.8694634866,151.2077146769,4.6,192,No
+16563607,The Pie Tin,"Bakery, Coffee and Tea",Newtown,Sydney,-33.8953820117,151.1824388802,4.4,261,No
+18518832,The Grounds of the City,"Cafe Food, Coffee and Tea",CBD,Sydney,-33.8721590260,151.2070344016,4.2,243,No
+16558672,Pancakes On The Rocks,"Grill, Desserts, Pizza, Cafe Food, Coffee and Tea",The Rocks,Sydney,-33.8586584831,151.2084479257,4.1,324,No
+17744545,Gogyo,"Japanese, Ramen",Surry Hills,Sydney,-33.8823602716,151.2101410702,4.5,120,No
+16559582,Spice Temple,"Chinese, Fusion, Yum Cha",CBD,Sydney,-33.8661222694,151.2100026011,4.3,244,No
+16563714,Orto Trading Co.,"Modern Australian, Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8867515424,151.2102956325,4.3,212,No
 16600038,Bib & Tucker,"Modern Australian, Cafe Food",North Fremantle,Perth,-32.0284215000,115.7498293000,4.1,692,No
 16597645,Mrs. S,"Patisserie, Cafe Food",Maylands,Perth,-31.9286800875,115.8919624239,4.5,643,No
 18196379,tbsp.,"Sandwich, Coffee and Tea, Cafe Food",Bayswater,Perth,-31.9194560000,115.9096643000,4.7,335,No
@@ -99,203 +299,670 @@ Restaurant ID,Name,Cuisine,Locality,City,Latitude,Longitude,Rating,Total Number 
 16599503,Print Hall,Modern Australian,Perth CBD,Perth,-31.9549028632,115.8551165834,4.2,265,No
 16596197,Meeka Restaurant,"Middle Eastern, Modern Australian",Subiaco,Perth,-31.9550897599,115.8237488195,4.5,181,No
 16596881,To To Vietnamese,Vietnamese,East Victoria Park,Perth,-31.9855744194,115.9036414325,4.1,326,No
-16577492,Chin Chin,"Thai, Asian Fusion",CBD,Melbourne,-37.8155645773,144.9703757465,4.6,3206,No
-16585905,Tipo 00,Italian,CBD,Melbourne,-37.8135277429,144.9619733915,4.9,721,No
-16577212,Beatrix,"Coffee and Tea, Bakery",North Melbourne,Melbourne,-37.8023673299,144.9444753304,4.9,384,No
-16583098,Lune Croissanterie,"Bakery, French",Fitzroy,Melbourne,-37.7960258682,144.9799244106,4.9,753,No
-16573665,The Hardware Societe,"French, Cafe Food, Coffee and Tea",CBD,Melbourne,-37.8120317331,144.9604676664,4.6,2103,No
-16582897,Supernormal,"Asian, Fusion",CBD,Melbourne,-37.8160479531,144.9683724716,4.5,1022,No
-18423923,Humble Rays,"Coffee and Tea, Cafe Food, Asian Fusion",Carlton,Melbourne,-37.8048177217,144.9615536258,4.8,829,No
-16582887,Rice Paper Scissors,"Asian Fusion, Tapas",CBD,Melbourne,-37.8143130000,144.9614020000,4.8,991,Yes
-16582069,Jinda Thai Restaurant,Thai,Abbotsford,Melbourne,-37.8093087478,144.9923685193,4.7,1034,No
-18449476,Calia,"Japanese, Australian, Asian",Emporium Melbourne,Melbourne,-37.8127461027,144.9639669433,4.5,676,Yes
-18515006,Kisumé,Japanese,CBD,Melbourne,-37.8160916554,144.9686400220,4.5,534,No
-16581560,Operator25,"Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8106103896,144.9571014941,4.3,818,No
-16577214,Manchester Press,"Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8139099517,144.9621769041,4.4,1143,No
-16582573,Mr. Miyagi,"Asian, Japanese",Windsor,Melbourne,-37.8542571942,144.9928734452,4.7,907,No
-16575238,Mamasita,"Latin American, Mexican",CBD,Melbourne,-37.8136270697,144.9734364823,4.4,1826,No
-16713362,Serotonin Eatery,"Cafe Food, Healthy Food, Vegan",Richmond,Melbourne,-37.8281773961,145.0091433898,4.6,901,Yes
-18316755,Higher Ground,"Cafe Food, Coffee and Tea",CBD,Melbourne,-37.8159708780,144.9530480057,4.2,843,No
-16585400,Hakata Gensuke Ramen Professionals,"Ramen, Japanese",CBD,Melbourne,-37.8123360761,144.9680422247,4.7,844,No
-16580028,Wonderbao,"Chinese, Taiwanese",CBD,Melbourne,-37.8089773737,144.9627716839,4.7,773,No
-16578739,ChangGo,"Korean BBQ, Korean",CBD,Melbourne,-37.8095426424,144.9617829546,4.5,414,No
-16581005,Top Paddock,"Coffee and Tea, Cafe Food",Richmond,Melbourne,-37.8328107891,144.9964692816,4.5,1474,No
-16578345,San Telmo,Steak,CBD,Melbourne,-37.8122960798,144.9723887444,4.6,768,No
-16573377,Seven Seeds,"Coffee and Tea, Cafe Food",Carlton,Melbourne,-37.8029400666,144.9590373784,4.4,945,No
-16581462,The Grain Store,"European, Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8197146191,144.9566186965,4.5,800,No
-16573759,Le Petit Gateau,"French, Desserts, Coffee and Tea",CBD,Melbourne,-37.8163464526,144.9596324936,4.9,350,No
-16572962,+39 Pizzeria,"Pizza, Italian",CBD,Melbourne,-37.8134906609,144.9618449807,4.6,808,No
-16571189,Cumulus Inc.,"Modern European, Contemporary",CBD,Melbourne,-37.8147943480,144.9731357396,4.7,1124,No
-16571938,MoVida Bar De Tapas,"Spanish, Tapas",CBD,Melbourne,-37.8167026904,144.9691895396,4.7,899,No
-18138489,Brick Lane,"Cafe Food, Coffee and Tea",CBD,Melbourne,-37.8114013232,144.9598075077,4.5,383,No
-16572612,Vue de monde,"Australian, Contemporary",CBD,Melbourne,-37.8189544974,144.9579336494,4.9,986,No
-18584637,Dodee Paidang,Thai,CBD,Melbourne,-37.8157595172,144.9631257355,4.6,473,Yes
-16571240,DOC Pizza & Mozzarella Bar - Carlton,"Italian, Pizza",Carlton,Melbourne,-37.7989620774,144.9685729668,4.6,924,No
-16581252,Industry Beans,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,-37.7961752910,144.9776770547,4.5,624,Yes
-16586014,Minamishima,"Japanese, Sushi",Richmond,Melbourne,-37.8198314176,145.0051938370,4.9,293,No
-16574687,Journeyman,"Coffee and Tea, Cafe Food",Windsor,Melbourne,-37.8522378412,144.9932469428,4.7,837,No
-16572269,Sakura Kaiten Sushi,"Sushi, Japanese",CBD,Melbourne,-37.8128928430,144.9717513844,4.6,436,No
-16578793,Patricia Coffee Brewers,Coffee and Tea,CBD,Melbourne,-37.8147135635,144.9582602084,4.9,364,No
-17881527,Dexter,"American, BBQ",Preston,Melbourne,-37.7361956460,145.0044562295,4.9,683,No
-16576154,Naked For Satan,Bar Food,Fitzroy,Melbourne,-37.7987986192,144.9783268198,4.6,874,No
-16582574,Hinoki Japanese Pantry,"Japanese, Sushi",Fitzroy,Melbourne,-37.8005961095,144.9838920683,4.9,272,No
-18418602,Shanklin Cafe,"Modern Australian, Coffee and Tea, Cafe Food",Hawthorn,Melbourne,-37.8331123984,145.0473296642,4.8,523,Yes
-16576105,Guhng,"Korean, Korean BBQ",CBD,Melbourne,-37.8153275234,144.9617051706,4.4,440,No
-16572688,Brother Baba Budan,Coffee and Tea,CBD,Melbourne,-37.8135166183,144.9621061608,4.6,544,No
-16585008,Addict Food & Coffee,"Coffee and Tea, Cafe Food",Fitzroy,Melbourne,-37.7989273723,144.9832097814,4.6,567,No
-16579706,Gypsy & Pig,Japanese,CBD,Melbourne,-37.8117793049,144.9603047222,4.5,274,No
-16572320,Shira Nui,"Sushi, Japanese",Glen Waverley,Melbourne,-37.8788198823,145.1657683030,4.8,422,No
-16586349,Little Rogue,Coffee and Tea,CBD,Melbourne,-37.8110254587,144.9640517682,4.7,332,No
-16586666,Vertue Coffee Roasters,"Coffee and Tea, Cafe Food",Carlton,Melbourne,-37.7976888425,144.9683121219,4.6,461,No
-16579873,Shimbashi Soba & Sake Bar,"Japanese, Tapas",CBD,Melbourne,-37.8113361629,144.9714006856,4.6,368,No
-16576912,Shanghai Street Dumpling & Mini Juicy Bun,"Chinese, Dumplings",CBD,Melbourne,-37.8133039261,144.9624219909,4.5,724,No
-18303417,White Mojo Speciality Coffee & Roaster,"Cafe Food, Fusion, Coffee and Tea",CBD,Melbourne,-37.8121662904,144.9605266750,4.2,707,Yes
-16575201,Three Bags Full,"Coffee and Tea, Cafe Food",Abbotsford,Melbourne,-37.8074476302,144.9965189025,4.5,1105,Yes
-16571861,The Meat & Wine Co,"BBQ, Steak, Modern Australian","Freshwater Place, Southbank",Melbourne,-37.8215086870,144.9620166421,4.4,933,No
-18316732,The Crux & Co,"Coffee and Tea, Cafe Food",South Melbourne,Melbourne,-37.8346574978,144.9718757719,4.4,439,No
-16576959,La Belle Miette,"Desserts, French, Coffee and Tea",CBD,Melbourne,-37.8140071590,144.9614460021,4.8,478,No
-16713155,Mörk Chocolate Brew House,Desserts,North Melbourne,Melbourne,-37.8015365623,144.9500627071,4.6,296,No
-16585490,The Glass Den,"Coffee and Tea, Cafe Food",Coburg,Melbourne,-37.7403753334,144.9688690156,4.4,608,No
-16577335,Chez Dré,"Cafe Food, Bakery, Patisserie",South Melbourne,Melbourne,-37.8327408812,144.9581800774,4.4,1184,Yes
-17989264,Faraday's Cage,"Bakery, Coffee and Tea, Cafe Food",Fitzroy,Melbourne,-37.7993758872,144.9828895927,4.7,380,No
-16570776,Auction Rooms,"Coffee and Tea, Cafe Food",North Melbourne,Melbourne,-37.8025223030,144.9495607987,4.4,1080,No
-17849632,Hash Specialty Coffee,"Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8123249513,144.9605967477,4.2,662,Yes
-16571812,Maha Restaurant,Middle Eastern,CBD,Melbourne,-37.8181668230,144.9626845121,4.7,931,No
-16584504,Shortstop Coffee & Donuts,"Desserts, Coffee and Tea",CBD,Melbourne,-37.8113176213,144.9609662220,4.6,540,Yes
-16582263,Gelato Messina,"Ice Cream, Desserts",Fitzroy,Melbourne,-37.8018912821,144.9836744741,4.9,835,No
-16576477,Purple Peanuts Japanese Cafe,"Japanese, Sushi",CBD,Melbourne,-37.8188464377,144.9545490369,4.6,490,Yes
-16578925,Hell of the North,"French, European",Fitzroy,Melbourne,-37.8003351649,144.9835487455,4.7,418,No
-16585312,The Kettle Black,"Coffee and Tea, Cafe Food",South Melbourne,Melbourne,-37.8341035430,144.9714281783,4.2,905,No
-16577469,Joomak,Korean,CBD,Melbourne,-37.8089405543,144.9633641169,4.4,322,Yes
-16579337,Aka Siro,Japanese,Collingwood,Melbourne,-37.8051562667,144.9855748192,4.8,237,No
-16570775,Attica,"Australian, Contemporary",Ripponlea,Melbourne,-37.8769242618,144.9973121658,4.8,495,No
-16572325,Shoya Nouvelle Wafu Cuisine,"Japanese, Sushi, Japanese BBQ",CBD,Melbourne,-37.8117808942,144.9692287669,4.7,388,No
-18567985,Miznon,"Israeli, Mediterranean, Middle Eastern",CBD,Melbourne,-37.8134546383,144.9611097202,4.5,367,No
-16579424,Breakfast Thieves,"Coffee and Tea, Modern Australian, Cafe Food",Fitzroy,Melbourne,-37.7963620691,144.9835983664,4.5,471,No
-16571710,Laksa King,"Malaysian, Chinese",Flemington,Melbourne,-37.7877957536,144.9294968694,4.6,1302,No
-16573473,Peko Peko,"Taiwanese, Japanese, Asian",South Melbourne,Melbourne,-37.8318858285,144.9697920308,4.6,514,Yes
-16576466,Darac Grill & Bar,"Korean, Asian",CBD,Melbourne,-37.8089763142,144.9620451406,4.4,413,Yes
-16577331,Burch & Purchese Sweet Studio,Desserts,South Yarra,Melbourne,-37.8377208564,144.9958983064,4.8,484,No
-16579439,CJ Lunch Bar,"Korean, Asian, Hot Pot",CBD,Melbourne,-37.8118423458,144.9603727832,4.5,334,No
-16573419,Coda,"Asian, Fusion",CBD,Melbourne,-37.8158217601,144.9699640274,4.6,562,No
-18198271,Ichi Ni Nana Izakaya,"Sushi, Japanese",Fitzroy,Melbourne,-37.8038190313,144.9774393439,4.4,384,Yes
-16583132,Wagyu Ya,"Japanese, Steak, Japanese BBQ",South Yarra,Melbourne,-37.8390709816,144.9914190173,4.7,389,No
-16577621,Komeyui,"Japanese, Japanese BBQ",South Melbourne,Melbourne,-37.8302880000,144.9538430000,4.7,247,No
-16573067,Cutler & Co,Modern Australian,Fitzroy,Melbourne,-37.8055705717,144.9759430066,4.7,569,No
-16713830,Bibelot,"Desserts, Ice Cream, Cafe Food, Coffee and Tea",South Melbourne,Melbourne,-37.8325692889,144.9582075700,4.8,427,No
-17849363,Grand Lafayette,"Cafe Food, Japanese, Coffee and Tea",Prahran,Melbourne,-37.8516016859,144.9950919673,4.1,422,No
-18097646,Agathé Pâtisserie,"Bakery, Patisserie","South Melbourne Market, South Melbourne",Melbourne,-37.8325827938,144.9569066986,4.9,319,No
-16574818,Proud Mary,"Coffee and Tea, Cafe Food",Collingwood,Melbourne,-37.8023726281,144.9851657823,4.5,894,No
-16571988,Nobu,Japanese,"Crown Melbourne, Southbank",Melbourne,-37.8222756683,144.9598175660,4.5,1022,No
-16576672,LuxBite,"Desserts, Coffee and Tea, Cafe Food",South Yarra,Melbourne,-37.8386086744,144.9877085164,4.5,598,No
-16583248,Pidapipó,"Ice Cream, Desserts",Carlton,Melbourne,-37.7983310261,144.9671862647,4.9,525,No
-16582655,Om Nom Kitchen - Adelphi Hotel,"Desserts, Modern Australian",CBD,Melbourne,-37.8162095191,144.9683127925,4.3,484,No
-16572155,Punch Lane,"Mediterranean, Modern Australian",CBD,Melbourne,-37.8108116997,144.9713500589,4.8,430,No
-16571628,Kenzan Japanese,"Japanese, Sushi",Collins Place,Melbourne,-37.8146303951,144.9727967754,4.6,262,No
-16572235,Rockpool Bar & Grill,"Seafood, Steak, Australian","Crown Melbourne, Southbank",Melbourne,-37.8219695123,144.9603560194,4.5,1094,No
-16581841,Bowery to Williamsburg,"American, Coffee and Tea, Cafe Food",CBD,Melbourne,-37.8162664644,144.9702634290,4.4,469,No
-16574121,Don Don,"Japanese, Asian",CBD,Melbourne,-37.8107603127,144.9635954574,4.6,692,Yes
-16582908,Mugen Ramen & Bar,"Japanese, Ramen",CBD,Melbourne,-37.8172101608,144.9637107924,4.4,349,No
-16586156,The Grand Trailer Park Taverna,"Burger, American",CBD,Melbourne,-37.8121877454,144.9709661678,4.4,668,Yes
-16579874,Two Birds One Stone,"Coffee and Tea, Modern Australian, Cafe Food",South Yarra,Melbourne,-37.8380227104,144.9939158186,4.4,684,No
-18716100,Mansae Korean BBQ & Bar,"Korean, Korean BBQ",CBD,Melbourne,-37.8095630386,144.9596073479,4.5,225,No
-18241437,KOI Dessert Bar,"Desserts, Modern Australian","Kensington Street, Chippendale",Sydney,-33.8855402567,151.2017665431,4.7,451,No
-16564139,Café Cre Asion,"Desserts, Cafe Food, Coffee and Tea",CBD,Sydney,-33.8779718367,151.2106550485,4.8,415,No
-16564875,The Grounds of Alexandria Cafe,"Coffee and Tea, Salad, Poké, Cafe Food","The Grounds of Alexandria, Alexandria",Sydney,-33.9110665786,151.1941245943,4.4,1242,No
-16566986,Devon,"Coffee and Tea, Cafe Food",Surry Hills,Sydney,-33.8861726213,151.2076851726,4.5,583,No
-18347530,Kobe Wagyu Yakiniku,"Japanese BBQ, BBQ, Healthy Food, Japanese, Seafood, Steak, Asian",CBD,Sydney,-33.8777330077,151.2054559216,4.5,632,No
-16564570,Sokyo,Japanese,"The Star, Pyrmont",Sydney,-33.8695550746,151.1958998814,4.8,572,No
-16565634,Mr. Wong,"Cantonese, Chinese, Yum Cha","Establishment, CBD",Sydney,-33.8641411959,151.2081414834,4.5,647,No
-16562756,Mappen Noodle Restaurant,"Japanese, Asian","SkyView Shopping Plaza, CBD",Sydney,-33.8761708597,151.2059947103,4.7,367,No
-16567840,Three Williams,"Cafe Food, Coffee and Tea",Redfern,Sydney,-33.8918506105,151.2074561790,4.4,527,No
-16558450,Masuya Japanese Seafood Restaurant,"Japanese, Hot Pot, Sushi",CBD,Sydney,-33.8651392551,151.2097095698,4.6,193,No
-16562670,Home Thai,"Thai, Salad",CBD,Sydney,-33.8745761144,151.2042854726,4.6,528,No
-15545104,Cafe Oratnek,"Japanese, Asian, Cafe Food, Coffee and Tea",Redfern,Sydney,-33.8901158872,151.2044252828,4.5,253,No
-16559119,Sydney Madang,"Hot Pot, Korean BBQ, BBQ, Korean",CBD,Sydney,-33.8760222148,151.2076415867,4.4,332,No
-16557398,Bourke Street Bakery,"Cafe Food, Bakery, Desserts, Coffee and Tea",Surry Hills,Sydney,-33.8894699144,151.2150052562,4.6,453,No
-16558798,Quay,Modern Australian,Circular Quay,Sydney,-33.8580292558,151.2099704146,4.9,452,No
-15547004,Restaurant Hubert,"French, European",CBD,Sydney,-33.8653806250,151.2104904279,4.9,231,No
-16561824,Saké Restaurant & Bar,"Japanese, Sushi","The Rocks Centre, The Rocks ",Sydney,-33.8590797287,151.2075413391,4.5,443,No
-16559232,Toko,Japanese,Surry Hills,Sydney,-33.8870226320,151.2138793990,4.5,317,No
-16557552,Chat Thai - Haymarket,"Thai, Salad",Haymarket,Sydney,-33.8792377867,151.2063651904,4.6,497,No
-16569007,Cho Cho San,"Japanese, Asian, Fusion",Potts Point,Sydney,-33.8694200000,151.2252580000,4.5,256,No
-16562527,Bistro Papillon,French,CBD,Sydney,-33.8680117073,151.2052265927,4.8,159,No
-16557481,Cafe Sydney,"Seafood, Modern Australian",CBD,Sydney,-33.8624022900,151.2108850479,4.6,373,No
-16558268,La Renaissance Cafe Patisserie,"Desserts, Bakery, French, Patisserie, Cafe Food, Coffee and Tea",The Rocks,Sydney,-33.8592097493,151.2084680423,4.8,238,No
-16560990,Black Star Pastry,"Bakery, Desserts, Coffee and Tea",Newtown,Sydney,-33.8971249766,151.1785999686,4.6,509,No
-16559790,Rockpool Bar & Grill,"Seafood, Steak, Modern Australian, Poké",CBD,Sydney,-33.8660301209,151.2100217119,4.6,397,No
-16562187,Le Monde,Modern Australian,Surry Hills,Sydney,-33.8848062961,151.2112411112,4.5,220,No
-16567979,Celsius Coffee Co,"Cafe Food, Coffee and Tea",Kirribilli,Sydney,-33.8494601655,151.2203861028,4.4,228,No
-16569454,LuMi Bar & Dining,"Italian, Japanese",Pyrmont,Sydney,-33.8669045524,151.1973965541,4.9,197,No
-16566463,Rustic Pearl,"Turkish, Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8865252626,151.2137070671,4.7,227,No
-16557237,Bar Luca,"Burger, Modern Australian",CBD,Sydney,-33.8638672496,151.2116377428,4.7,312,No
-16559171,Tetsuya's,Japanese,CBD,Sydney,-33.8751364638,151.2049677596,4.9,330,No
-16563159,Ms. G's,"Asian, Vietnamese, Salad",Potts Point,Sydney,-33.8726260000,151.2224250000,4.5,469,No
-16566109,Ippudo,"Japanese, Ramen","Westfield Pitt Street Mall, CBD",Sydney,-33.8698329000,151.2089890614,4.5,603,No
-16562433,Cow & The Moon,"Ice Cream, Desserts, Coffee and Tea",Enmore,Sydney,-33.8990000921,151.1720285565,4.9,356,No
-16566176,Kepos Street Kitchen,Middle Eastern,Redfern,Sydney,-33.8968717299,151.2126539648,4.6,284,No
-16564684,Buffalo Dining Club,Italian,Darlinghurst,Sydney,-33.8775420553,151.2219132856,4.5,192,No
-16559908,Hurricane's Grill- Darling Harbour,"Steak, Modern Australian, Salad","Harbourside Shopping Centre, Darling Harbour",Sydney,-33.8708501007,151.1988449469,4.4,468,Yes
-16568099,Cuckoo Callay,"Coffee and Tea, Cafe Food",Newtown,Sydney,-33.8982512197,151.1791830137,4.6,366,No
-16569020,Bowery Lane,"Modern Australian, Cafe Food","Wintergarden, CBD",Sydney,-33.8648204899,151.2098990008,4.4,214,No
-16568165,Brewtown Newtown,"Cafe Food, Coffee and Tea",Newtown,Sydney,-33.8939401356,151.1824492738,4.4,446,No
-16564828,Reuben Hills,"Cafe Food, Coffee and Tea, Fried Chicken",Surry Hills,Sydney,-33.8829278068,151.2110640854,4.3,453,No
-16563677,Circa,"Cafe Food, Coffee and Tea",Parramatta,Sydney,-33.8187340157,151.0051793978,4.7,412,No
-16561698,Gumshara Ramen,"Ramen, Japanese","Harbour Plaza, Chinatown",Sydney,-33.8776790066,151.2036212906,4.4,379,No
-16559086,Suminoya Japanese,Japanese BBQ,CBD,Sydney,-33.8670855065,151.2090044841,4.5,126,No
-16566547,Oh! Matcha,"Japanese, Cafe Food, Coffee and Tea","Regent Place Arcade, CBD",Sydney,-33.8749193393,151.2062062696,4.4,373,No
-16561309,Revolver,"Coffee and Tea, Cafe Food",Annandale,Sydney,-33.8758359907,151.1717811227,4.5,245,No
-15546911,Flower Child,"Bakery, Cafe Food, Coffee and Tea","Westfield Chatswood, Chatswood",Sydney,-33.7965720746,151.1840213835,4.4,275,No
-17743923,Juan Bowl & Tea,"Japanese, Tea",Redfern,Sydney,-33.8931052223,151.2039173394,4.5,122,No
-16564699,The Baxter Inn,Bar Food,CBD,Sydney,-33.8696255053,151.2057985738,4.8,142,No
-16570446,Belly Bao,"Taiwanese, Street Food",Newtown,Sydney,-33.8945184474,151.1825887486,4.6,199,No
-18394951,Cuppa Flower,"Cafe Food, Coffee and Tea",Waterloo,Sydney,-33.9023224907,151.2039186805,4.3,163,No
-16566535,Lorraine's Patisserie,"Desserts, Bakery","Ivy, CBD",Sydney,-33.8666116843,151.2077032775,4.9,111,No
-17744148,Ho Jiak Haymarket 好吃禧市,"Malaysian, Asian, Chinese, Asian Fusion, Singaporean",Haymarket,Sydney,-33.8793410549,151.2039833888,4.8,221,No
-17742790,Meet Mica,"Healthy Food, Seafood, Fusion, Japanese, Contemporary, Asian, Coffee and Tea, Cafe Food",Surry Hills,Sydney,-33.8892197064,151.2081408128,4.2,174,No
-16562675,Chefs Gallery Town Hall,Chinese,"Regent Place Arcade, CBD",Sydney,-33.8748310975,151.2064879015,4.4,518,No
-18220980,Black Star Pastry,"Bakery, Desserts, Coffee and Tea","The Galeries, CBD",Sydney,-33.8724852798,151.2076737732,4.7,230,No
-16557570,China Doll,"Asian, Chinese",Woolloomooloo,Sydney,-33.8684582400,151.2203391641,4.6,263,No
-16558906,Ryo's Noodles,"Japanese, Ramen",Crows Nest,Sydney,-33.8285227553,151.2066414580,4.7,263,No
-16557147,Aria,Modern Australian,Circular Quay,Sydney,-33.8585919411,151.2139528245,4.4,330,No
-16569877,Yasaka Ramen,"Japanese, Ramen",CBD,Sydney,-33.8768458826,151.2083218619,4.2,265,No
-16558421,Mamak,Malaysian,Haymarket,Sydney,-33.8777708641,151.2042884901,4.5,668,Yes
-16566248,Méjico,"Mexican, Bar Food",CBD,Sydney,-33.8660253882,151.2084871531,4.3,383,No
-15545439,Manpuku - Chatswood,"Japanese, Ramen",Chatswood,Sydney,-33.7943935138,151.1895571277,4.9,196,No
-16567674,The Paramount Coffee Project,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8796644978,151.2111123651,4.2,326,No
-16559258,Trio,"Mediterranean, Cafe Food, Coffee and Tea, Australian, European, Juices, Sandwich, Salad",Bondi Beach,Sydney,-33.8934238818,151.2733319029,4.7,214,No
-16562652,Mad Spuds Cafe,"Irish, Healthy Food, Salad, Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8881078168,151.2134810910,4.5,257,No
-16568015,Social Brew Cafe,"Cafe Food, Coffee and Tea",Pyrmont,Sydney,-33.8716649104,151.1952142417,4.7,185,No
-16559009,Single O,"Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8813913616,151.2097179517,4.6,163,No
-16557807,Encasa,Spanish,Haymarket,Sydney,-33.8786615981,151.2072298676,4.5,191,Yes
-16559500,Miso Japanese Restaurant,Japanese,"World Square, CBD",Sydney,-33.8774323827,151.2071567774,4.5,201,No
-16557718,Din Tai Fung,"Chinese, Taiwanese, Yum Cha","World Square, CBD",Sydney,-33.8776319644,151.2067819387,4.4,574,No
-16561338,The Winery,Modern Australian,Surry Hills,Sydney,-33.8815466774,151.2142984942,4.4,258,No
-16568476,La Mamma del Gelato Anita,Ice Cream,"Central Park, Chippendale",Sydney,-33.8850718252,151.2004720420,4.9,231,No
-16569582,Chaco Ramen,Ramen,Darlinghurst,Sydney,-33.8781611181,151.2154961005,4.5,108,No
-16563069,Felix Bistro and Bar,French,"Ivy, CBD",Sydney,-33.8667074512,151.2076687440,4.5,256,No
-16564479,BLACK Bar & Grill,"Steak, Modern Australian","The Star, Pyrmont",Sydney,-33.8676918393,151.1955314130,4.5,256,No
-16565382,Hartsyard,Modern Australian,Newtown,Sydney,-33.8983753365,151.1769681796,4.5,233,No
-15546922,Social Hideout,"Juices, Desserts, Modern Australian, Salad, Coffee and Tea, Vegetarian, Cafe Food",Parramatta,Sydney,-33.8086430099,151.0062874854,4.2,251,No
-18498289,Concrete Jungle,"Cafe Food, Coffee and Tea",Chippendale,Sydney,-33.8857982687,151.2019445747,4.2,136,No
-16557948,glass brasserie & wine bar,"Modern Australian, French, Tapas","Hilton Sydney, CBD",Sydney,-33.8723811682,151.2075363100,4.5,244,No
-16559833,Gelato Messina,"Desserts, Ice Cream, Beverages",Darlinghurst,Sydney,-33.8780561783,151.2213775143,4.8,338,No
-16563918,El Loco at Excelsior,Mexican,Surry Hills,Sydney,-33.8845315811,151.2109759077,4.3,291,No
-16566183,Mary's,"American, Burger, Fried Chicken",Newtown,Sydney,-33.8960513166,151.1798465252,4.3,487,No
-16559453,The Italian Bowl,Italian,Newtown,Sydney,-33.8960168079,151.1808825284,4.4,254,Yes
-16564601,The Wedge Espresso,"Coffee and Tea, Cafe Food",Glebe,Sydney,-33.8829436721,151.1915161461,4.4,155,No
-16558176,Jazushi,Japanese,Surry Hills,Sydney,-33.8869800482,151.2094631419,4.6,151,No
-16566332,Mr Crackles,"Sandwich, Fast Food, Salad, Fried Chicken, American",Darlinghurst,Sydney,-33.8800113208,151.2159537524,4.5,230,No
-18381614,Auvers,"Cafe Food, Coffee and Tea, Asian Fusion, Modern Australian",Rhodes,Sydney,-33.8283472898,151.0870052129,4.5,244,No
-16559190,Thai Pothong,Thai,Newtown,Sydney,-33.8967821193,151.1797137558,4.7,291,No
-18494965,Sasaki,Japanese,CBD,Sydney,-33.8780010640,151.2104998156,4.3,67,No
-16558549,Masuya Suisan,"Sushi, Japanese",Haymarket,Sydney,-33.8795219827,151.2069894746,4.5,160,No
-16557373,Bodega,"Latin American, Tapas",Surry Hills,Sydney,-33.8863890000,151.2092860000,4.5,194,No
-16558647,Otto Ristorante,Italian,Woolloomooloo,Sydney,-33.8682196627,151.2205148488,4.5,231,No
-16563607,The Pie Tin,"Bakery, Coffee and Tea",Newtown,Sydney,-33.8953820117,151.1824388802,4.4,261,No
-16558709,The Restaurant Pendolino,Italian,"The Strand Arcade, CBD",Sydney,-33.8694634866,151.2077146769,4.6,192,No
-18518832,The Grounds of the City,"Cafe Food, Coffee and Tea",CBD,Sydney,-33.8721590260,151.2070344016,4.2,243,No
-16558672,Pancakes On The Rocks,"Grill, Desserts, Pizza, Cafe Food, Coffee and Tea",The Rocks,Sydney,-33.8586584831,151.2084479257,4.1,324,No
-17744545,Gogyo,"Japanese, Ramen",Surry Hills,Sydney,-33.8823602716,151.2101410702,4.5,120,No
-16559582,Spice Temple,"Chinese, Fusion, Yum Cha",CBD,Sydney,-33.8661222694,151.2100026011,4.3,244,No
-16563714,Orto Trading Co.,"Modern Australian, Cafe Food, Coffee and Tea",Surry Hills,Sydney,-33.8867515424,151.2102956325,4.3,212,No
+16613885,Elk Espresso,"Cafe Food, Coffee and Tea",Oasis Shopping Centre,Gold Coast,-28.0300570000,153.4327160000,4.7,420,No
+16613496,Amimoto,"Japanese, Sushi",Surfers Paradise,Gold Coast,-28.0001472222,153.4287861111,4.5,144,No
+16616150,Lot 1,"Cafe Food, Coffee and Tea",Surfers Paradise,Gold Coast,-28.0031457000,153.4297850000,4.4,175,No
+16612737,Alfresco Italian Restaurant,"Italian, Pizza, Seafood",Surfers Paradise,Gold Coast,-28.0071310000,153.4289280000,4.6,212,No
+16613722,Bazaar,Modern Australian,QT Gold Coast,Gold Coast,-27.9945820000,153.4287150000,4.2,198,No
+16614211,The Cardamom Pod,"Cafe Food, Vegetarian",Broadbeach,Gold Coast,-28.0305940000,153.4310400000,4.6,155,No
+16615853,Paddock Bakery,"Bakery, Cafe Food",Burleigh Heads,Gold Coast,-28.0770180000,153.4444804000,4.3,155,No
+16613319,Bumbles,"Cafe Food, Coffee and Tea",Surfers Paradise,Gold Coast,-27.9944460000,153.4245150000,4.2,141,No
+17842357,Brooklyn Depot,"American, Burger, Bar Food",Surfers Paradise,Gold Coast,-28.0032166000,153.4272057000,4.3,164,Yes
+16615462,Hurricane's Grill & Bar Surfers Paradise,"Steak, Grill","Soul Boardwalk, Surfers Paradise",Gold Coast,-28.0017928000,153.4309655000,4.2,181,No
+17986593,Betty's Burgers and Concrete Co,"Burger, Ice Cream",Chevron Renaissance,Gold Coast,-27.9995550000,153.4280380000,4.5,237,No
+16616560,Kiyomi Japanese Restaurant,"Japanese, Tapas","The Star Gold Coast, Broadbeach",Gold Coast,-28.0326005276,153.4281749127,4.9,73,No
+16615077,Social Eating House & Bar,"Modern Australian, Seafood, Tapas",Broadbeach,Gold Coast,-28.0291003000,153.4313884000,4.9,139,No
+16613490,Hakataya Ramen,Japanese,Surfers Paradise,Gold Coast,-28.0006443000,153.4283761000,4.4,108,No
+16612854,Donto Sapporo Japanese,"Japanese, Sushi",Bundall,Gold Coast,-28.0135940000,153.4112610000,4.4,70,No
+17986612,Bam Bam Bakehouse,"Bakery, French, Cafe Food",Mermaid Beach,Gold Coast,-28.0413420000,153.4344850000,4.3,101,No
+16615798,Gemelli Italian,Italian,Broadbeach,Gold Coast,-28.0306208000,153.4307844000,4.4,148,No
+16613015,Moo Moo The Wine Bar + Grill,Steak,Broadbeach,Gold Coast,-28.0308590000,153.4306180000,4.2,162,No
+17842450,Paradox Coffee Roasters,Cafe Food,Surfers Paradise,Gold Coast,-28.0032166000,153.4272057000,4.2,82,No
+16612822,Chiangmai Thai,Thai,Surfers Paradise,Gold Coast,-27.9957310000,153.4278260000,4.1,127,No
+16612772,Misono Japanese Steakhouse,"Japanese, Steak, Sushi",Surfers Paradise Marriott Resort & Spa,Gold Coast,-27.9907880000,153.4281010000,4.3,84,No
+16615913,Grocer & Grind,Cafe Food,Broadbeach Waters,Gold Coast,-28.0278520000,153.4243510000,4.1,111,No
+16614808,Shiraz Authentic Persian Restaurant,"Middle Eastern, Vegetarian",Surfers Paradise,Gold Coast,-28.0039170000,153.4287930000,4.6,119,Yes
+16613821,Vapiano - Soul Boardwalk,Italian,"Soul Boardwalk, Surfers Paradise",Gold Coast,-28.0018527778,153.4304361111,4.0,169,Yes
+16612823,Chiangmai Thai,Thai,Broadbeach,Gold Coast,-28.0214860000,153.4289700000,4.2,137,No
+16616357,Etsu Izakaya,"Japanese, Sushi",Mermaid Beach,Gold Coast,-28.0462820000,153.4348790000,4.8,80,No
+16613933,Commune Cafe,"Sandwich, Cafe Food",Burleigh Heads,Gold Coast,-28.0810570000,153.4467370000,4.4,86,No
+16613690,Itoshin,"Japanese, Sushi",Mermaid Beach,Gold Coast,-28.0438500000,153.4344180000,4.5,50,Yes
+16613961,No Name Lane,Cafe Food,Broadbeach,Gold Coast,-28.0312860000,153.4305880000,4.3,100,No
+16615192,BSKT Cafe,Cafe Food,Mermaid Beach,Gold Coast,-28.0591890000,153.4416590000,4.0,149,No
+16613439,Barefoot Barista,"Cafe Food, Coffee and Tea",Palm Beach,Gold Coast,-28.1211430000,153.4724580000,4.4,88,No
+16613436,Peter's Fish Market,"Seafood, Fish and Chips",Main Beach,Gold Coast,-27.9683650000,153.4273990000,4.0,86,No
+16612910,Hard Rock Cafe,"American, Burger","Cavill Mall, Surfers Paradise",Gold Coast,-28.0018790000,153.4290160000,4.0,137,No
+16613192,You Japanese,"Japanese, Sushi",Surfers Paradise,Gold Coast,-28.0023440000,153.4274730000,4.4,35,No
+16613036,Omeros Bros Seafood Restaurant,Seafood,Marina Mirage,Gold Coast,-27.9685800000,153.4248810000,4.1,96,No
+16613323,KooKoo Teppanyaki and Lounge Bar,"Asian, Japanese, Teppanyaki",Surfers Paradise,Gold Coast,-28.0032675000,153.4287410000,4.4,77,No
+16612886,Four Winds 360,"Modern Australian, Seafood",Surfers Paradise,Gold Coast,-28.0181500000,153.4295960000,3.5,88,No
+16613384,Glass Dining & Lounge Bar,"Seafood, Modern Australian, Mediterranean",Marina Mirage,Gold Coast,-27.9686083333,153.4252305556,4.1,77,No
+16615398,Longboards Laidback Eatery & Bar,"Modern Australian, Burger",Surfers Paradise,Gold Coast,-28.0077573000,153.4312452000,4.3,84,Yes
+16615222,42 Fifteen,"Modern Australian, Cafe Food",Southport,Gold Coast,-27.9688053000,153.4134002000,4.5,71,No
+16614245,Justin Lane Pizzeria & Bar,"Pizza, Italian",Burleigh Heads,Gold Coast,-28.0886800000,153.4515362000,4.2,111,Yes
+16612761,Bavarian Haus Restaurant & Function Centre,German,Surfers Paradise,Gold Coast,-28.0016080000,153.4283140000,3.8,34,No
+16613264,Cha Cha Japanese,Japanese,Broadbeach,Gold Coast,-28.0288470000,153.4310460000,3.8,84,No
+16614275,JFX,Japanese,Southport,Gold Coast,-27.9697010000,153.4145670000,4.3,59,No
+17986595,Rick Shores,Asian Fusion,Burleigh Heads,Gold Coast,-28.0893770000,153.4547330000,4.0,45,No
+16613202,Mario's Italian Restaurant & Pizzeria,"Pizza, Italian","The Oasis Shopping Centre, Broadbeach",Gold Coast,-28.0203110000,153.4312440000,4.1,105,Yes
+17986473,Blackboard Specialty Coffee,Cafe Food,Varsity Lakes,Gold Coast,-28.0775000000,153.4154700000,4.1,83,No
+16616130,Bonita Bonita,Mexican,Mermaid Beach,Gold Coast,-28.0450208000,153.4348788000,4.5,76,No
+17986459,Mamasan Kitchen and Bar,"Asian, Fusion",The Oracle,Gold Coast,-28.0305910000,153.4326320000,4.2,54,No
+16613675,Koi Dining & Lounge Bar,"Modern Australian, Mediterranean",Broadbeach,Gold Coast,-28.0283202000,153.4311910000,4.0,136,No
+16615828,Daark Espresso Bar,Cafe Food,Labrador,Gold Coast,-27.9560900000,153.4004460000,4.4,59,No
+16613172,Nero Dining,Modern Australian,Broadbeach Waters,Gold Coast,-28.0277940000,153.4243560000,4.4,60,No
+18319110,The Loose Moose Tap & Grill House,"American, Modern Australian",Broadbeach,Gold Coast,-28.0295030769,153.4314610189,4.0,72,No
+16613312,Terraces Restaurant,Seafood,Sheraton Grand Mirage Resort,Gold Coast,-27.9673466195,153.4280246450,3.7,47,No
+16615424,Muso Ramen & Gyoza Bar,"Japanese, Ramen, Dumplings",Mermaid Beach,Gold Coast,-28.0437652000,153.4344161000,4.3,37,No
+16613513,Little Truffle Dining Room & Bar,Italian,Mermaid Beach,Gold Coast,-28.0460850000,153.4349980000,4.7,73,No
+16614037,Mecca Bah,Turkish,Broadbeach,Gold Coast,-28.0263690000,153.4293980000,4.1,107,No
+16615136,Espl Coffee,Cafe Food,"Soul Boardwalk, Surfers Paradise",Gold Coast,-28.0018320000,153.4307559000,4.3,44,No
+16613251,Pancakes in Paradise,American,Surfers Paradise,Gold Coast,-28.0110910000,153.4295350000,3.7,82,No
+16613356,George's Paragon Seafood Restaurant,Seafood,Hope Island,Gold Coast,-27.8632970000,153.3778080000,4.0,109,No
+16616234,Greek Street Grill,Greek,Surfers Paradise,Gold Coast,-28.0015388889,153.4309083333,4.1,42,No
+16612884,Harvest Buffet,"Seafood, Modern Australian","The Star Gold Coast, Broadbeach",Gold Coast,-28.0315147247,153.4284745037,3.7,72,No
+17842392,Blendlove,"Healthy Food, Desserts, Cafe Food",Southport,Gold Coast,-27.9913480000,153.4122520000,4.0,30,No
+16613781,Baritalia,Italian,Chevron Renaissance,Gold Coast,-28.0001067000,153.4269591000,4.2,104,No
+16612843,Costa D'Oro Italian Restaurant and Pizzeria,"Italian, Pizza",Surfers Paradise,Gold Coast,-27.9998250000,153.4296570000,4.2,76,No
+16615004,Ze Pickle,"American, Burger",Burleigh Heads,Gold Coast,-28.0908476000,153.4516497000,4.0,85,Yes
+16616739,Cucina Vivo Italian Restaurant,Italian,"The Star Gold Coast, Broadbeach",Gold Coast,-28.0263690000,153.4293980000,4.1,53,No
+18283040,The Cardamom Pod,"Cafe Food, Vegetarian",Southport,Gold Coast,-27.9800120000,153.4090580000,4.1,41,No
+16613191,Yellowfin Seafood Restaurant,Seafood,Broadbeach,Gold Coast,-28.0274410000,153.4316860000,4.0,81,Yes
+17984070,Canteen Kitchen,Cafe Food,Burleigh Heads,Gold Coast,-28.0898060000,153.4501350000,4.0,78,No
+16613686,Maruya,Japanese,Southport,Gold Coast,-27.9687100000,153.4134670000,4.2,42,No
+16614285,Charis Seafood,"Seafood, Fish and Chips",Labrador,Gold Coast,-27.9416096000,153.4081330000,3.7,37,No
+16612932,"Il Barocco, Palazzo Versace","Modern Australian, Contemporary",Palazzo Versace,Gold Coast,-27.9688760000,153.4276430000,4.0,43,No
+16614397,Sushi Ave,"Japanese, Sushi",Surfers Paradise,Gold Coast,-28.0011850000,153.4292770000,4.0,39,No
+16614608,Waves Buffet Restaurant,Seafood,Surfers Paradise,Gold Coast,-28.0068163000,153.4292108000,4.1,37,No
+16613400,Max Brenner,Desserts,Surfers Paradise,Gold Coast,-27.9995980000,153.4279080000,3.8,45,No
+18250087,Garden Kitchen and Bar,Modern Australian,"The Star Gold Coast, Broadbeach",Gold Coast,-28.0319470000,153.4286960000,3.6,38,No
+18469500,Betty's Burgers & Concrete Co.,"Burger, Ice Cream",Broadbeach,Gold Coast,-28.0366198510,153.4279795116,4.1,147,No
+16614353,The Bavarian - Broadbeach,"German, Pub Food",Broadbeach,Gold Coast,-28.0291000000,153.4313880000,3.8,62,No
+16612991,Manolas Bros Delicatessen,"Burger, Desserts, Deli, Modern Australian, Cafe Food",Surfers Paradise,Gold Coast,-28.0095088000,153.4266502000,4.1,37,No
+16613425,Taboon,"Israeli, Vegetarian, Mediterranean, Middle Eastern, Moroccan, Turkish",Robina,Gold Coast,-28.0847840000,153.3918150000,4.6,41,No
+18013363,House of Brews,American,Surfers Paradise,Gold Coast,-28.0007664194,153.4301531218,4.0,32,No
+16614272,MOS Burger,"Burger, Japanese","Soul Boardwalk, Surfers Paradise",Gold Coast,-28.0017928000,153.4309655000,4.1,50,No
+17986471,Seascape Restaurant + Bar,Seafood,Surfers Paradise,Gold Coast,-28.0016220000,153.4305140000,4.0,30,No
+16612778,Bistro Lamp,Japanese,Surfers Paradise,Gold Coast,-28.0110910000,153.4295350000,4.2,32,No
+16613719,Bangkok Thai,Thai,Surfers Paradise,Gold Coast,-27.9980580000,153.4187320000,4.2,49,No
+16614830,Yum Cha Noodle Haus,"Chinese, Yum Cha",Surfers Paradise,Gold Coast,-28.0011850000,153.4292770000,3.8,36,No
+16613435,Mike's Kitchen,Steak,Merrimac,Gold Coast,-28.0486557000,153.3566875000,4.3,53,No
+17972516,Social Brew,"Modern Australian, Cafe Food",Burleigh Heads,Gold Coast,-28.0910917183,153.4490282963,3.4,46,No
+18353549,Hideaway Kitchen,Asian,Broadbeach,Gold Coast,-28.0306360000,153.4302000000,4.0,31,No
+16612974,The Lazy Lobster,Seafood,Labrador,Gold Coast,-27.9450050000,153.4099960000,3.9,39,No
+16614200,"Catch Restaurant, Hilton Surfers Paradise","Modern Australian, Seafood",Hilton Hotel,Gold Coast,-28.0006800000,153.4295747000,4.0,65,No
+16614188,Guzman Y Gomez,Mexican,Broadbeach,Gold Coast,-28.0305797000,153.4325832000,4.4,43,No
+16615116,The Cuban,"Latin American, Spanish",Broadbeach,Gold Coast,-28.0311454000,153.4315914000,4.0,54,No
+18131620,Salt Meats Cheese,"Italian, Pizza",Surfers Paradise,Gold Coast,-28.0032210000,153.4272380000,4.0,29,No
+16616032,Elston Bar,Modern Australian,"Soul Boardwalk, Surfers Paradise",Gold Coast,-28.0015305556,153.4309694444,3.4,75,Yes
+16616643,The Lamb Shop,Greek,The Oracle,Gold Coast,-28.0306080000,153.4326339000,4.2,36,No
+16613114,Shogun Japanese Restaurant,Japanese,Southport,Gold Coast,-27.9805790000,153.4100700000,4.3,23,No
+17977429,The Surfers Paradise Beach Cafe,Modern Australian,"Soul Boardwalk, Surfers Paradise",Gold Coast,-28.0013861111,153.4309694444,3.2,78,No
+16615165,Bin 12,"Tapas, Bar Food",Burleigh Heads,Gold Coast,-28.0894337000,153.4509819000,4.5,35,No
+16603064,The Cupping Room,"Coffee and Tea, Cafe Food",Civic,ACT,-35.2804650000,149.1258880000,4.6,291,No
+16603301,Akiba,"Asian, Japanese, Fusion",Civic,ACT,-35.2778959000,149.1312173000,4.4,235,No
+16603053,Penny University Coffee Roasters,"Coffee and Tea, Cafe Food",Kingston,ACT,-35.3162900000,149.1405960000,4.5,135,No
+16603138,Local Press Cafe,"Breakfast, Coffee and Tea, Cafe Food",Kingston,ACT,-35.3114722000,149.1455438000,4.5,103,No
+16602472,Brodburger,Burger,Kingston,ACT,-35.3116920000,149.1447640000,4.3,179,No
+16602692,Mocan & Green Grout,"Breakfast, Coffee and Tea, Tapas",Civic,ACT,-35.2850520000,149.1247870000,4.2,165,No
+16602930,Eightysix,Modern Australian,Braddon,ACT,-35.2734700000,149.1339818000,4.3,168,No
+16603327,Frugii Dessert Laboratory,"Coffee and Tea, Desserts, Ice Cream",Braddon,ACT,-35.2717470000,149.1334230000,4.7,79,No
+17841872,Kinn Thai,"Asian, Thai",Civic,ACT,-35.2774841000,149.1328422000,4.3,103,No
+16603198,Black Fire Restaurant,"Mediterranean, Spanish",Braddon,ACT,-35.2729700000,149.1319250000,4.4,78,No
+17849702,Pâtissez,"Desserts, Cafe Food",Griffith,ACT,-35.3205410000,149.1323570000,3.9,112,No
+16603178,Monster Kitchen and Bar,"Breakfast, Modern Australian",Civic,ACT,-35.2849287000,149.1225309000,4.1,139,No
+16602877,Sweet Bones Bakery Cafe,"Bakery, Sandwich, Cafe Food",Braddon,ACT,-35.2720075000,149.1327648000,4.2,76,No
+16602447,Lonsdale Street Roasters,"Coffee and Tea, Sandwich, Cafe Food",Braddon,ACT,-35.2751500000,149.1323240000,4.1,131,No
+16602346,Courgette,Modern Australian,Civic,ACT,-35.2766760000,149.1267550000,4.6,80,No
+16602458,Morks Restaurant,Thai,Kingston,ACT,-35.3106388000,149.1439484000,4.5,88,No
+16602498,Sage Restaurant,Modern Australian,Braddon,ACT,-35.2762733000,149.1403558000,4.4,92,No
+16602397,The Flute Bakery,"Breakfast, Coffee and Tea",Fyshwick,ACT,-35.3306690000,149.1773070000,4.6,74,No
+16602382,Italian and Sons Vino e Cucina,Italian,Braddon,ACT,-35.2750771000,149.1324730000,4.1,117,No
+16602348,Aubergine,"European, French",Griffith,ACT,-35.3280450000,149.1417240000,4.9,58,No
+16603099,Temporada,"Tapas, Modern Australian",Civic,ACT,-35.2761620000,149.1277690000,4.2,66,No
+16602437,Koko Black Canberra,"Coffee and Tea, Desserts",Civic,ACT,-35.2814830000,149.1347500000,4.4,73,No
+16602390,Blu Ginger,Indian,Civic,ACT,-35.2773485000,149.1319602000,4.3,92,No
+16602395,Dickson Asian Noodle House,"Asian, Malaysian, Thai",Dickson,ACT,-35.2503810000,149.1364750000,4.1,77,No
+16603299,Lilotang Japanese,"Japanese, Modern Australian",Barton,ACT,-35.3119901000,149.1336292000,4.2,45,No
+18175934,Space Kitchen,Modern Australian,Phillip,ACT,-35.3424850000,149.0840520000,4.1,45,No
+16602365,Urban Pantry,Modern Australian,Griffith,ACT,-35.3211518000,149.1329905000,3.7,123,No
+16602427,Sammy's Kitchen,"Chinese, Malaysian",Civic,ACT,38.0290500000,-121.3218600000,4.1,84,No
+16602353,Silo Bakery,Mediterranean,Kingston,ACT,-35.3157620000,149.1403050000,4.3,81,No
+16602425,The Chairman and Yip,Cantonese,Barton,ACT,-35.2784120000,149.1327670000,4.2,53,No
+16603167,Bentspoke Brewing Co,Bar Food,Braddon,ACT,-35.2730760000,149.1318500000,4.0,91,No
+17973397,Grease Monkey,"Burger, American",Braddon,ACT,-35.2729240000,149.1324240000,4.1,87,No
+16603059,PappaRich,Malaysian,Civic,ACT,-35.2788630000,149.1336620000,3.9,99,Yes
+16602539,Fish Shack,"Seafood, Fish and Chips, Australian",Civic,ACT,-35.2775340000,149.1311340000,4.3,43,No
+16603232,Eighty/Twenty,"Coffee and Tea, Modern Australian, Cafe Food",Braddon,ACT,-35.2736540000,149.1331160000,4.0,72,No
+16602689,Yarralumla Turkish Halal Pide House,Turkish,Yarralumla,ACT,-35.3071373000,149.0982294000,4.8,64,No
+16603258,Les Bistronomes,French,Braddon,ACT,-35.2895510000,149.1541030000,4.4,44,No
+16602475,Au Lac Royal Vegetarian Cuisine,"Asian, Vietnamese",Dickson,ACT,-35.2501070000,149.1365200000,4.4,47,No
+18568838,RAKU,Japanese,Civic,ACT,-35.2805900000,149.1337790000,4.1,26,No
+16603103,CBD Dumpling House,"Asian, Chinese, Malaysian",Civic,ACT,-35.2777357000,149.1337001000,3.7,78,No
+16602668,Ona on the Lawns,"Breakfast, Coffee and Tea",Griffith,ACT,-35.3202945986,149.1322857142,4.1,83,No
+16602537,Two Before Ten - Cafe & Coffee Roasters,"Cafe Food, Coffee and Tea",Civic,ACT,-35.2564588000,149.0787032000,4.1,66,No
+16602377,Iori Japanese Restaurant,Japanese,Civic,ACT,-35.2788120000,149.1304470000,4.2,40,No
+16602643,Dobinsons Bakery Cafe,"Coffee and Tea, Desserts",Civic,ACT,-35.2790202000,149.1332490000,3.9,72,No
+16603346,Bistro Nguyen's,"Asian, Vietnamese",Civic,ACT,-35.2785670000,149.1285380000,3.8,61,No
+16602794,Ricardo's Cafe,"Pizza, Modern Australian, Cafe Food",Macquarie,ACT,-35.2526370000,149.0711250000,4.0,70,No
+16602401,Poachers Pantry,Modern Australian,Hall,ACT,-35.1677040000,149.0600970000,4.2,59,No
+16602413,Pho Phu Quoc,Vietnamese,Dickson,ACT,-35.2514310000,149.1369320000,4.3,54,No
+16602399,Ottoman Cuisine,"Mediterranean, Turkish",Barton,ACT,-35.3057290000,149.1353150000,4.3,42,No
+16602423,Double Shot Deakin,"Coffee and Tea, Burger, Fast Food",Deakin,ACT,-35.3144273000,149.1078276000,3.7,110,No
+16602445,Bicicletta,Italian,Civic,ACT,-35.2841870000,149.1235960000,3.6,78,No
+16603083,Chez Frederic,"Desserts, Diner, Italian",Braddon,ACT,-35.2742382000,149.1328154000,4.1,59,No
+16602438,Gus' Cafe,Cafe Food,Civic,ACT,-35.2787630000,149.1319270000,3.8,65,No
+16602392,Dickson Dumpling House,Chinese,Dickson,ACT,-35.2513240000,149.1358950000,4.2,74,No
+16602345,Rubicon,"European, Modern Australian",Griffith,ACT,-35.3280910000,149.1425630000,4.5,36,No
+16602380,Griffith Vietnamese Restaurant,Vietnamese,Griffith,ACT,-35.3281760000,149.1428570000,4.2,49,No
+16602875,Malaysian Chapter,"Asian, Malaysian",Belconnen,ACT,-35.2411132000,149.0627531000,4.1,81,Yes
+16602483,Lanterne Rooms,"Asian, Malaysian",Campbell,ACT,-35.2895130000,149.1534880000,4.3,29,No
+16602411,Parlour Wine Room,"Spanish, Tapas",Acton,ACT,-35.2809942000,149.1213974000,4.0,60,No
+16603003,Via Dolce,"Desserts, Italian, Pizza",Civic,ACT,-35.2784598000,149.1329003000,3.2,83,No
+16602843,Red Chilli Sichuan Restaurant,"Chinese, Sichuan",Civic,ACT,-35.2781410000,149.1286680000,3.9,68,No
+16602350,Debacle,"Breakfast, Diner, Pizza",Braddon,ACT,-35.2716670000,149.1331790000,3.7,70,No
+16602476,Pod Food,"European, Modern Australian",Airport & Pialligo,ACT,-35.3074750000,149.1785750000,4.2,60,No
+16602898,Lonsdale Street Cafe,"Sandwich, Cafe Food",Braddon,ACT,-35.2724790000,149.1325110000,3.6,58,No
+16602464,Burmese Curry Place,Asian,Civic,ACT,-35.2794690000,149.1299680000,4.3,45,No
+16603300,Fox and Bow,"Coffee and Tea, Cafe Food",Farrer,ACT,-35.3753814000,149.1018089000,3.9,59,No
+16603104,Tree Eighty3,"Burger, Coffee and Tea, Cafe Food",Civic,ACT,-35.2795150000,149.1309010000,3.9,35,No
+16603013,Beach Burrito Company,"Mexican, Vegetarian",Civic,ACT,-35.2791304000,149.1318556000,3.1,68,No
+16603350,Pialligo Estate Farmhouse,"Modern Australian, Australian",Airport & Pialligo,ACT,-35.3107000000,149.1791350000,4.2,38,No
+16602780,Maple & Clove,"Breakfast, Modern Australian",Barton,ACT,-35.3119901000,149.1336292000,3.3,86,No
+16602671,Mr Shabu Shabu,Japanese,Civic,ACT,-35.2765670000,149.1250260000,3.7,33,No
+16602860,Kokoro,Japanese,Gungahlin,ACT,-35.1853424000,149.1335844000,4.1,37,No
+16602418,"A Bite To Eat, A Drink As Well","Breakfast, Pizza",Chifley,ACT,-35.3524630000,149.0761870000,3.9,69,No
+16603159,Molly,Finger Food,Civic,ACT,-35.2791314000,149.1267715000,4.2,38,No
+16602920,Shorty's,"Coffee and Tea, Bar Food, Tapas",Civic,ACT,-35.2779040000,149.1316180000,3.0,66,No
+16603184,Stand By Me,"Coffee and Tea, Sandwich, Cafe Food",Lyons,ACT,-35.3393238000,149.0766375000,4.1,45,No
+16603295,Marble & Grain,"Desserts, European, Modern Australian",Braddon,ACT,-35.2753802000,149.1311539000,3.8,32,No
+16602666,Thai Herb Restaurant,Thai,Gungahlin,ACT,-35.1995087000,149.1503477000,4.3,43,Yes
+16602371,The Scholar,Chinese,Dickson,ACT,-35.2505490000,149.1364440000,3.7,54,No
+16602638,Public,"Pizza, Bar Food",Griffith,ACT,-35.3201686000,149.1337383000,3.5,71,No
+16602340,Tilley's,"Breakfast, Bar Food",Lyneham,ACT,-35.2497917000,149.1270771000,3.7,61,No
+16603180,Walt & Burley,"Australian, Bar Food",Kingston,ACT,-35.3111523000,149.1457716000,2.5,92,No
+16603066,Chatterbox Espresso Bar,"Breakfast, Coffee and Tea",Belconnen,ACT,-35.2417400000,149.0715700000,4.0,51,No
+16602527,Ona Coffee House,"Breakfast, Burger, Coffee and Tea",Fyshwick,ACT,-35.3237110000,149.1793370000,4.2,45,No
+16603079,The Mandalay Bus,"Asian, International, Bar Food",Braddon,ACT,-35.2706240000,149.1332361000,4.2,30,No
+16602534,Farmers Daughter,"Coffee and Tea, Cafe Food",Yarralumla,ACT,-35.3075180000,149.0972600000,3.8,59,No
+16602362,Ramas Restaurant,Indian,Pearce,ACT,-35.3628200000,149.0820470000,4.4,36,No
+16602646,Pizza Gusto,"Italian, Pizza",Braddon,ACT,-35.2724790000,149.1325110000,4.4,40,No
+16603126,Capitol Bar & Grill,"Italian, Steak, Bar Food",Civic,ACT,-35.2837931000,149.1257501000,3.7,41,No
+16602663,Bean and Grain,Coffee and Tea,Fyshwick,ACT,-35.3238290000,149.1551210000,4.0,43,No
+16602713,Chong Co Thai Bar and Restaurant,Thai,Belconnen,ACT,-35.2409091000,149.0638989000,4.0,43,No
+16603193,Coffee Lab,"Coffee and Tea, Beverages",Civic,ACT,-35.2774841000,149.1328422000,3.8,40,No
+16602824,Guzman y Gomez,Mexican,Civic,ACT,-35.2790202000,149.1332490000,4.0,28,No
+18279235,Soi Noodle Bar,Asian Fusion,Civic,ACT,-35.2790340000,149.1332510000,3.8,31,No
+16602620,Tu Do Vietnamese,"Asian, Vietnamese",O'Connor,ACT,-35.2639270000,149.1224480000,3.9,37,No
+16602632,Belluci's,Italian,Griffith,ACT,-35.3184460000,149.1316400000,3.4,45,No
+16603185,Pomegranate,"Mediterranean, Turkish, Modern Australian",Kingston,ACT,-35.3151730000,149.1401280000,4.0,27,No
+16602354,Waters Edge Restaurant,Australian,Parkes,ACT,-35.3015330000,149.1336980000,3.8,34,No
+16602574,Trevs @Dickson,"Breakfast, Pizza, Modern Australian",Dickson,ACT,-35.2499400000,149.1360000000,3.9,45,No
+16602705,Tak Kee Roast Inn,"Asian, Chinese",Dickson,ACT,-35.2506076000,149.1366287000,4.1,33,No
+16609793,Mylan,Vietnamese,Wollongong,Wollongong,-34.4237710000,150.8935090000,4.4,48,No
+16611334,His Boy Elroy,Australian,Wollongong,Wollongong,-34.4238380000,150.8932600000,4.9,34,No
+16609717,Lee and Me,"Breakfast, Coffee and Tea",Wollongong,Wollongong,-34.4257890000,150.8984680000,4.3,53,No
+16609740,Diggies,"Breakfast, Modern Australian",Wollongong,Wollongong,-34.4094810000,150.8997960000,3.4,63,No
+16609737,Samaras,"Mediterranean, Middle Eastern",Wollongong,Wollongong,-34.4257350000,150.9000090000,4.5,46,No
+16609752,The Lagoon,"Seafood, Modern Australian",Wollongong,Wollongong,-34.4125210000,150.8999480000,3.8,37,No
+16609597,Bombora Seafood,"Seafood, Steak",Wollongong,Wollongong,-34.4206730364,150.9069210291,3.8,30,No
+16612287,Jasmine Rice,Thai,Wollongong,Wollongong,-34.4164840000,150.8933400000,3.9,26,No
+16612528,Kinn Thai Restaurant,Thai,Wollongong,Wollongong,-34.4245879000,150.8942418000,4.0,28,No
+16610681,Sakura Sushi Japanese Restaurant,Japanese,Wollongong,Wollongong,-34.4254080000,150.9003020000,4.2,22,No
+16610420,Bangkok Balcony,"Asian, Thai",Wollongong,Wollongong,-34.4254660000,150.8732100000,3.9,15,No
+16609907,Levendi,"Burger, Coffee and Tea, Seafood",Wollongong,Wollongong,-34.4218955000,150.9044503000,3.6,46,No
+16609738,Roppongi,Japanese,Wollongong,Wollongong,-34.4229130000,150.8910830000,4.0,25,No
+16610469,Lower East Cafe,Cafe Food,Wollongong,Wollongong,-34.4255160000,150.8991190000,3.7,23,No
+16609714,Caveau,French,Wollongong,Wollongong,-34.4255220000,150.8928070000,3.9,24,No
+17842186,Rookie Eatery,"Modern Australian, Australian",Wollongong,Wollongong,-34.4222793000,150.8937180000,3.7,10,No
+16610136,Amigos Mexican,Mexican,Wollongong,Wollongong,-34.4255490000,150.8927920000,3.8,22,No
+16611081,Harbourfront Restaurant,Seafood,Wollongong,Wollongong,-34.4222950000,150.9092930000,3.9,19,No
+16610808,Mango Tree Cafe & Restaurant,"Breakfast, Indian, Modern Australian",Wollongong,Wollongong,-34.4154820000,150.9007110000,3.9,30,No
+16611412,Living Room Cafe/Bar,"Mediterranean, Modern Australian",Wollongong,Wollongong,-34.4240760000,150.8933776000,3.6,9,No
+16610417,Chef's Choice,Chinese,Wollongong,Wollongong,-34.4236985000,150.8933769000,3.9,14,No
+16609958,Jj's Indian Restaurant,Indian,Wollongong,Wollongong,-34.4257620000,150.9000090000,4.1,21,No
+16610740,Lupa Woodfired Pizza,"Italian, Pizza",Wollongong,Wollongong,-34.4215370000,150.8934320000,4.2,24,No
+17842259,Kürtősh House No.5 Wollongong,Cafe Food,Wollongong,Wollongong,-34.4245879000,150.8942418000,3.9,15,No
+17842264,Da Orlando Woodfire Pizzeria,Pizza,Wollongong,Wollongong,-34.4342270000,150.8917300000,3.7,13,Yes
+16610014,Food World Gourmet Cafe,Chinese,Wollongong,Wollongong,-34.4220040000,150.8956880000,3.8,21,No
+16612688,Humber Lounge Bar Cafe,"Tapas, Bar Food, Cafe Food",Wollongong,Wollongong,-34.4248250000,150.8925316000,3.0,15,No
+16610235,Litani's Lebanese Restaurant,"Breakfast, Mediterranean",Wollongong,Wollongong,-34.4252360000,150.8997960000,3.5,20,No
+17842301,Raw Energy,"Healthy Food, Cafe Food",Wollongong,Wollongong,-34.4245610000,150.8994620000,3.2,7,No
+16611164,FUKU,"Asian, Chinese, Japanese",Wollongong,Wollongong,-34.4256837000,150.8991711000,3.5,17,Yes
+16609596,Aqua,Modern Australian,Wollongong,Wollongong,-34.4179061000,150.9020813000,3.3,15,No
+18283869,Bull & Bear,"Modern Australian, Cafe Food",Wollongong,Wollongong,-34.4220570000,150.8929430000,3.5,11,No
+16612675,Sifters Espresso,"Coffee and Tea, Modern Australian, Cafe Food",Wollongong,Wollongong,-34.4229840000,150.8926210000,3.4,10,No
+16611345,Chocolateria San Churro,"Coffee and Tea, Desserts, Spanish, Ice Cream",Wollongong,Wollongong,-34.4255713000,150.8943189000,3.7,7,No
+16610414,Thai Carnation,"Asian, Thai",Wollongong,Wollongong,-34.4256979000,150.8999473000,3.8,10,No
+17978799,Hungry Wolf,Modern Australian,Wollongong,Wollongong,-34.4259791594,150.8989484485,3.6,2,No
+16609739,Cosa Nostra Ristorante Pizza & Gelato,"Italian, Pizza",Wollongong,Wollongong,-34.4247780000,150.8998870000,2.7,11,No
+16612297,Dagwood Bar & Kitchen,"Coffee and Tea, Australian, Bar Food",Wollongong,Wollongong,-34.4246700000,150.8995720000,3.9,7,No
+16609704,Thai Basil Cafe,Thai,Wollongong,Wollongong,-34.4253850000,150.8928380000,3.9,11,No
+16609892,Lorenzo's Diner,Others,Wollongong,Wollongong,-34.4255370000,150.8927920000,3.4,8,No
+17842189,Jimmy's Burger Bar,Burger,Wollongong,Wollongong,-34.4258312000,150.8993242000,3.7,9,No
+16611242,Meni Cafe,"Breakfast, Coffee and Tea",Wollongong,Wollongong,-34.4255390000,150.8849400000,2.9,10,No
+16610955,Marco's,Italian,Wollongong,Wollongong,-34.4247110000,150.9001838000,3.2,11,No
+16611978,Bostons Espresso,"Coffee and Tea, Sandwich",Wollongong,Wollongong,-34.4271410000,150.8910210000,3.7,10,No
+16611627,Chargoal,Mediterranean,Wollongong,Wollongong,-34.4268629000,150.9019982000,3.3,16,No
+16610413,The Illawarra Brewery,Modern Australian,Wollongong,Wollongong,-34.4252014000,150.9023681000,2.8,11,No
+16609732,Turkish Paradise,"Mediterranean, Turkish",Wollongong,Wollongong,-34.4257890000,150.8984680000,3.9,9,No
+16610090,Crystal Thai Cuisine,Thai,Wollongong,Wollongong,-34.4255140000,150.8928070000,3.9,8,No
+18284939,Saigon Senses,Vietnamese,Wollongong,Wollongong,-34.4245970000,150.8942420000,3.3,7,No
+17974897,Miss Lee,Chinese,Wollongong,Wollongong,-34.4278077492,150.8930607140,3.6,9,No
+16609886,North Beach Kiosk,"Breakfast, Burger, Coffee and Tea",Wollongong,Wollongong,-34.4218710000,150.9042820000,3.3,9,No
+17974868,Kneading Ruby,Pizza,Wollongong,Wollongong,-34.4247710000,150.8919090000,3.7,6,No
+16610491,Ha Long Bay,"Asian, Vietnamese",Wollongong,Wollongong,-34.4256610000,150.8996880000,2.3,9,No
+16610419,Hanoi Vietnamese Takeaway Food,"Asian, Vietnamese",Wollongong,Wollongong,-34.4258592000,150.8877601000,3.5,8,No
+17974863,Quay Canteen,Vietnamese,Wollongong,Wollongong,-34.4254839000,150.8951851000,3.6,8,No
+16609882,Nonabel Restaurant & Cafe,"Coffee and Tea, Middle Eastern, Pizza",Wollongong,Wollongong,-34.4148090000,150.8925170000,3.5,10,No
+16611652,Léchappé Cycle Cafe,"Coffee and Tea, Sandwich, Cafe Food",Wollongong,Wollongong,-34.4307400000,150.8929830000,3.6,5,No
+16610236,Top Choice Restaurant,"Asian, Thai",Wollongong,Wollongong,-34.4245000000,150.9002840000,3.9,5,No
+16611016,Anchorage Restaurant,"Seafood, Modern Australian",Wollongong,Wollongong,-34.4207471000,150.9025320000,2.5,4,No
+16612291,Balinese Spice Magic,"Indonesian, International, Bar Food",Wollongong,Wollongong,-34.4221260000,150.8933530000,3.8,7,No
+16611695,Hideaway Cafe & Restaurant,"Breakfast, Burger, Italian",Wollongong,Wollongong,-34.4261410000,150.8953090000,3.4,4,No
+17974870,Steamers Bar and Grill,"Australian, Bar Food, Grill, Healthy Food, Modern Australian",Wollongong,Wollongong,-34.4227135349,150.9062547858,3.2,4,No
+17974898,Julianna's Buffet,Modern Australian,Wollongong,Wollongong,-34.4206569952,150.8968305588,0,0,No
+17973745,Mr Crown,Bar Food,Wollongong,Wollongong,-34.4232091392,150.8961267646,2.8,5,No
+16610960,Crown Cafe & Catering,"Breakfast, Coffee and Tea, Sandwich",Wollongong,Wollongong,-34.4256593000,150.8867333000,3.7,5,Yes
+18075384,Toro Robata Sushi,"Japanese, Sushi",Wollongong,Wollongong,-34.4266410000,150.8998820000,3.4,4,No
+16610827,Zambrero Wollongong,Mexican,Wollongong,Wollongong,-34.4258886000,150.8992092000,3.1,2,No
+17974889,Moon’s Fresh Sushi,"Japanese, Sushi",Wollongong,Wollongong,-34.4277700000,150.8867450000,0,1,No
+17745773,Norma’s Burger Bar,Burger,Wollongong,Wollongong,-34.4250090275,150.8942247927,0,2,No
+17974867,Stonegrill at The Builders,"Modern Australian, Australian",Wollongong,Wollongong,-34.4207290000,150.8966480000,3.5,2,No
+18446289,Dew Drop Inn,"Tea, Coffee and Tea, Dumplings, Vegetarian",Wollongong,Wollongong,-34.4657420000,150.8480780000,2.9,2,No
+16612292,Pot of Gold Mexican Cantina,Mexican,Wollongong,Wollongong,-34.4249750000,150.8955990000,3.6,8,No
+16612321,Chicko's,Burger,Wollongong,Wollongong,-34.4262147000,150.9020034000,3.0,4,No
+16609876,Cold Rock Ice Creamery,Desserts,Wollongong,Wollongong,-34.4233700000,150.8943480000,2.6,3,No
+17974895,Illnara Korean Restaurant,"Korean, Asian Fusion, Korean BBQ",Wollongong,Wollongong,-34.4254890000,150.8953430000,3.1,3,No
+16609874,The Asian Takeaway,Asian,Wollongong,Wollongong,-34.4162330000,150.8850560000,3.9,6,No
+16610411,Coconut Thai,Thai,Wollongong,Wollongong,-34.4240212000,150.8934566000,3.0,6,No
+16611071,Ghedia's Indian Restaurant,Indian,Wollongong,Wollongong,-34.4254180000,150.9002855000,3.1,4,Yes
+18279022,The White Rabbit,Cafe Food,Wollongong,Wollongong,-34.4200000000,150.9000000000,0,2,No
+16611664,Tony's Chicken Shop,"Greek, Fish and Chips",Wollongong,Wollongong,-34.4262870000,150.8775220000,3.1,4,Yes
+16612187,Swell Coffee,Others,Wollongong,Wollongong,-34.4253616000,150.8960247000,3.2,4,No
+17974856,Casablanca On Crown,Moroccan,Wollongong,Wollongong,-34.4255240000,150.8992470000,3.5,3,No
+16612530,Grill'd - Wollongong,Burger,Wollongong,Wollongong,-34.4248500000,150.8931475000,3.4,4,No
+16610312,Fontana Italian Restaurant and Cocktail Bar,Italian,Wollongong,Wollongong,-34.4258310000,150.8988040000,3.3,3,No
+16610989,Curryvillage Indian Restaurant,Indian,Wollongong,Wollongong,-34.4230230000,150.8936577000,3.0,3,Yes
+19027883,Sneaky Burger,Burger,Wollongong,Wollongong,-34.4262370000,150.8990880000,3.7,6,No
+16611379,Flavours on Crown,"Breakfast, Burger, Mediterranean",Wollongong,Wollongong,-34.4258275000,150.8988922000,3.2,3,No
+18075376,Manjit’s On Crown,Indian,Wollongong,Wollongong,-34.4256560000,150.8996880000,3.3,1,No
+16611148,Cafe on Legs - Kitchen + Bar,"Breakfast, Mediterranean, Bar Food",Wollongong,Wollongong,-34.4254080000,150.9003020000,3.6,4,No
+17842267,Bluorange,"Tapas, Cafe Food",Wollongong,Wollongong,-34.4178390000,150.9014750000,2.9,2,No
+16612430,Guzman Y Gomez,"Latin American, Mexican",Wollongong,Wollongong,-34.4254909000,150.8931222000,3.8,3,No
+16611639,McColl's Kitchen @ Dicey Riley's Hotel,Bar Food,Wollongong,Wollongong,-34.4257717000,150.8888099000,0,1,No
+16610147,Napoli Pizza,Pizza,Wollongong,Wollongong,-34.4261820000,150.8951870000,3.6,0,Yes
+17842303,Square,,Wollongong,Wollongong,-34.4255160000,150.8953390000,3.5,3,No
+16610512,Bar Pelligrini,"Coffee and Tea, Italian",Wollongong,Wollongong,-34.4238660000,150.8936760000,3.7,4,No
+17974891,Bubbleberry - Frozen Yogurt and Bubble Tea,"Korean, Fusion, Bubble Tea, Frozen Yogurt, Burger",Wollongong,Wollongong,-34.4232040000,150.8939990000,0,2,No
+16612042,Domino's,Pizza,Wollongong,Wollongong,-34.4214741000,150.8938263000,2.8,4,Yes
+18249070,All Good Things Organic,Cafe Food,Wollongong,Wollongong,-34.4260588072,150.8920283492,0,0,No
+18075386,Ziggy’s House of Nomms,"Asian, Chinese, Coffee and Tea",Wollongong,Wollongong,-34.4231860000,150.8936480000,0,1,No
+16610408,House of Thai Cuisine,"Asian, Thai",Wollongong,Wollongong,-34.4223457000,150.8938178000,3.2,3,Yes
+16610407,Bocados,"Spanish, Tapas",Newcastle,Newcastle,-32.9289380000,151.7836600000,4.2,30,No
+16610152,Talulah Bar,"Breakfast, International, Tapas",Newcastle,Newcastle,-32.9385680000,151.7605740000,4.9,36,No
+16611821,One Penny Black,Cafe Food,Newcastle,Newcastle,-32.9271542000,151.7815427000,4.0,31,No
+16610196,Subo,Modern Australian,Newcastle,Newcastle,-32.9274560000,151.7667540000,4.4,15,No
+16610175,Sprout Dining,Modern Australian,Newcastle,Newcastle,-32.9254040000,151.7704470000,4.3,27,No
+16611247,Ground Floor Cafe,Cafe Food,Newcastle,Newcastle,-32.9273137000,151.7819407000,3.5,18,No
+16611289,Saigon Feast,"Asian, Vietnamese",Newcastle,Newcastle,-32.9265601000,151.7762111000,4.2,20,No
+16610680,Estabar - Gelati and Espresso,"Coffee and Tea, Desserts, Cafe Food",Newcastle,Newcastle,-32.9290879000,151.7896745000,4.1,17,No
+16611393,Nagisa Japanese Restaurant,"Japanese, Sushi",Newcastle,Newcastle,-32.9254010000,151.7717990000,3.8,13,No
+16610358,Scratchley's on the Wharf,"Seafood, Modern Australian",Newcastle,Newcastle,-32.9257860000,151.7792376000,3.6,19,No
+16610816,Rustica,"Desserts, Mediterranean",Newcastle,Newcastle,-32.9295340000,151.7851020000,3.9,19,No
+16609777,Jonah's on the Beach,"Seafood, Modern Australian",Newcastle,Newcastle,-32.9284130000,151.7878570000,3.8,15,No
+17989599,Doughheads,Desserts,Newcastle,Newcastle,-32.9265484788,151.7795232268,3.6,18,No
+16611024,Restaurant Mason,"French, Modern Australian",Newcastle,Newcastle,-32.9280261000,151.7849128000,3.9,19,No
+16612316,The Lucky Hotel,"American, BBQ, Bar Food",Newcastle,Newcastle,-32.9264545000,151.7771349000,3.1,20,No
+16610662,Honeysuckle Hotel,"Pizza, Bar Food, Modern Australian",Newcastle,Newcastle,-32.9259407000,151.7662482000,3.3,12,No
+16611856,Saluna Kitchen + Coffee,"Coffee and Tea, Cafe Food",Newcastle,Newcastle,-32.9273912000,151.7782042000,3.6,10,No
+16610670,Dockyard,"Bar Food, Tapas",Newcastle,Newcastle,-32.9256038000,151.7713543000,3.9,11,No
+16612269,Cirque Cafe,Modern Australian,Newcastle,Newcastle,-32.9270840000,151.7831520000,3.7,11,No
+16612570,Newy Burger Co,Burger,Newcastle,Newcastle,-32.9274852336,151.7696344047,3.5,10,No
+17989546,Blue Door,American,Newcastle,Newcastle,-32.9272300000,151.7728890000,3.2,10,No
+16609841,Liquid Gold,Breakfast,Newcastle,Newcastle,-32.9293710000,151.7860410000,3.4,21,No
+16612634,Six Degrees,"Bar Food, Australian",Newcastle,Newcastle,-32.9257960000,151.7810790000,3.2,26,No
+16611333,Good Brother,Coffee and Tea,Newcastle,Newcastle,-32.9285407000,151.7832410000,3.9,10,No
+16611899,Uprising Kitchen and Bakery,"Coffee and Tea, Cafe Food",Newcastle,Newcastle,-32.9122900000,151.7565370000,3.9,11,No
+16610150,Silo Restaurant & Lounge,Modern Australian,Newcastle,Newcastle,-32.9254040000,151.7704470000,2.9,16,No
+16612112,Napoli Centrale Pizza Bar,Italian,Newcastle,Newcastle,-32.9271414000,151.7771737000,3.4,13,No
+16610443,Blue Door Cafe,,Newcastle,Newcastle,-32.9272760000,151.7727690000,3.3,12,Yes
+16610937,Queens Wharf Hotel,Australian,Newcastle,Newcastle,-32.9257960000,151.7810790000,3.0,14,No
+16610633,Lotus Espresso,"Coffee and Tea, Modern Australian",Newcastle,Newcastle,-32.9386082000,151.7608260000,3.8,5,No
+16610332,Three Bean Espresso,Modern Australian,Newcastle,Newcastle,-32.9240549000,151.7464544000,3.9,7,No
+16610616,Hog's Australia's Steakhouse,"Steak, American",Newcastle,Newcastle,-32.9252330000,151.7700350000,2.7,10,No
+16610155,Longworth House,"International, Tapas",Newcastle,Newcastle,-32.9266930000,151.7828670000,3.8,7,No
+16609845,Source Cafe,Others,Newcastle,Newcastle,-32.9147340000,151.7589570000,3.5,10,No
+16612117,Serambi,"Chinese, Indian, Malaysian",Newcastle,Newcastle,-32.9341279000,151.7692336000,3.6,8,No
+16609599,Chinois,Chinese,Newcastle,Newcastle,-32.9281580000,151.7704930000,3.9,8,No
+16611849,Asa-Don,Japanese,Newcastle,Newcastle,-32.9271959000,151.7768682000,3.6,7,No
+17842249,Moor,"Mediterranean, Australian, Cafe Food",Newcastle,Newcastle,-32.9281450000,151.7849300000,3.7,7,No
+16611936,Una Volta,"Desserts, Italian",Newcastle,Newcastle,-32.9276130000,151.7798540000,3.0,3,No
+16612121,Newcastle Diggers Club,"Asian, Chinese",Newcastle,Newcastle,-32.9267966000,151.7836511000,3.3,5,No
+16611305,The Landing Bar & Kitchen,"Pizza, Modern Australian",Newcastle,Newcastle,-32.9254010000,151.7717990000,2.9,5,No
+16611785,Cazador,Tapas,Newcastle,Newcastle,-32.9271617000,151.7816363000,3.6,5,No
+16611735,The Squire's Maiden,Others,Newcastle,Newcastle,-32.9254449889,151.7693832884,3.3,8,No
+16610780,Ristorante Il Grifone,"Italian, Mediterranean",Newcastle,Newcastle,-32.9256094000,151.7713336000,3.4,8,No
+16609868,Harrys Cafe De Wheels,Others,Newcastle,Newcastle,-32.9257880000,151.7788168000,3.1,6,No
+16612026,The Beach House,"Seafood, Australian",Newcastle,Newcastle,-32.9254630000,151.7692760000,3.1,9,No
+16610995,Surtaj Indian Restaurant,Indian,Newcastle,Newcastle,-32.9266409000,151.7762610000,3.7,9,No
+16611149,Muchos,Mexican,Newcastle,Newcastle,-32.9386082000,151.7608260000,3.0,5,No
+17874753,Foghorn Brewhouse,"American, Pizza",Newcastle,Newcastle,-32.9277200000,151.7749290000,3.5,3,No
+17874729,The Tea Project,"Beverages, Desserts",Newcastle,Newcastle,-32.9272920000,151.7768250000,2.8,5,No
+16612176,Larna Thai,Thai,Newcastle,Newcastle,-32.9254010000,151.7717990000,3.2,4,No
+16611840,Hello Naomi,"Bakery, Coffee and Tea",Newcastle,Newcastle,-32.9271817000,151.7769723000,3.8,1,No
+16611726,Reserve Wine Bar,Tapas,Newcastle,Newcastle,-32.9273520000,151.7830730000,3.5,5,No
+16610552,Hamburger Haven,Burger,Newcastle,Newcastle,-32.9275020000,151.7697000000,3.7,5,No
+16612233,Heritage Indian Cuisine,Indian,Newcastle,Newcastle,-32.9252330000,151.7700350000,2.8,7,No
+16610963,Customs House Hotel,"Burger, Bar Food, Seafood",Newcastle,Newcastle,-32.9266580000,151.7852260000,3.9,1,No
+19018006,Susuru Ramen & Gyoza,"Japanese, Ramen",Newcastle,Newcastle,-32.9272100000,151.7782240000,0,2,No
+16611216,Agosti Espresso,Coffee and Tea,Newcastle,Newcastle,-32.9273490000,151.7752110000,2.9,1,No
+17874772,Momo Wholefood,"Vegetarian, Healthy Food, Burger, Salad",Newcastle,Newcastle,-32.9265950000,151.7776290000,3.1,3,No
+16611782,Thara Thong Thai,Thai,Newcastle,Newcastle,-32.9275033000,151.7669453000,3.7,0,No
+17874763,Papa's Bagel Bar,"Cafe Food, Coffee and Tea",Newcastle,Newcastle,-32.9275980666,151.7660228536,0,2,No
+16611488,Sushi Castle,"Japanese, Korean",Newcastle,Newcastle,-32.9252720000,151.7674640000,3.4,2,No
+16612227,Delicious Fine Foods,"Burger, Pizza",Newcastle,Newcastle,-32.9266890000,151.7802050000,2.4,5,No
+17874726,Habesha,Ethiopian,Newcastle,Newcastle,-32.9384550000,151.7609520000,0,2,No
+16612667,Red Baron's,"European, German, Bar Food",Newcastle,Newcastle,-32.9288880000,151.7834620000,2.6,1,No
+16610238,Domino's,Pizza,Newcastle,Newcastle,-32.9275320000,151.7639620000,0,1,Yes
+16610405,Bistro Dalby,Modern Australian,Newcastle,Newcastle,-32.9291040000,151.7849233000,2.5,1,No
+16611990,Peaberrys Coffee Roasters,Coffee and Tea,Newcastle,Newcastle,-32.9175760000,151.7501870000,3.7,1,No
+16611841,Crown & Anchor,"Burger, Bar Food, Modern Australian",Newcastle,Newcastle,-32.9266770000,151.7787110000,3.4,1,No
+16611356,Yogurtland,Desserts,Newcastle,Newcastle,-32.9087732000,151.6650459000,3.2,3,No
+16612210,The Vital Method,"Coffee and Tea, International",Newcastle,Newcastle,-32.9405700000,151.7609100000,3.3,0,No
+17874738,Cravings Restaurant- Hotel Delany,Modern Australian,Newcastle,Newcastle,-32.9317070000,151.7714240000,0,1,No
+16611812,Civic Lunch Delights,"Breakfast, Burger, Sandwich",Newcastle,Newcastle,-32.9270301000,151.7719063000,3.6,2,No
+16611851,Lans Vietnamese,Vietnamese,Newcastle,Newcastle,-32.9318701000,151.7711425000,3.0,1,No
+17874770,The Maryville Tavern,"Pub Food, Australian",Newcastle,Newcastle,-32.9117200000,151.7519540000,0,2,No
+16611299,The Clarendon,Bar Food,Newcastle,Newcastle,-32.9270184000,151.7733640000,0,2,No
+17874768,Dumpling Flavour,"Asian, Chinese, Dumplings",Newcastle,Newcastle,-32.9303580000,151.7724080000,0,0,No
+16609978,Spoon Thai,Others,Newcastle,Newcastle,-32.9723935000,151.7089685000,3.3,0,No
+17874767,Milky Lane,"Burger, American, Beverages",Newcastle,Newcastle,-32.9274400131,151.7747757169,0,1,No
+17874736,Burwood Bench,Cafe Food,Newcastle,Newcastle,-33.8655440000,151.2076250000,0,1,No
+19253131,Lulu's Cafe & Poké,"Cafe Food, Coffee and Tea, Poké",Newcastle,Newcastle,-32.9268270000,151.7768590000,0,0,No
+17874764,Shams Afghan Kebab,"Kebab, Afghan",Newcastle,Newcastle,-32.9252209075,151.7700511962,0,2,No
+16610038,Relish Kitchen,Breakfast,Newcastle,Newcastle,-32.9406280000,151.7608640000,3.5,0,Yes
+16611859,Cafe Plumes,"Breakfast, Coffee and Tea, Modern Australian",Newcastle,Newcastle,-32.9266890000,151.7802050000,0,2,No
+16611853,Sally's Fine Foods,"Burger, Sandwich, Fish and Chips",Newcastle,Newcastle,-32.9306068000,151.7723184000,0,2,No
+17874765,Popolo Artisan Gelateria,"Desserts, Ice Cream",Newcastle,Newcastle,-32.9269325135,151.7771392688,0,2,No
+16611476,Rathmines Chinese Restaurant,Malaysian,Newcastle,Newcastle,-33.0509329000,151.5967248000,0,0,No
+16611367,La Belle Epoque,French,Newcastle,Newcastle,-32.9270840000,151.7831520000,0,1,No
+17874771,Winnie’s,"Vegan, Burger",Newcastle,Newcastle,-32.9276650000,151.7745390000,0,0,No
+17874769,Best Coast Pizza,Pizza,Newcastle,Newcastle,-32.9424410000,151.7518050000,0,1,No
+16612643,Wash Tub Diner,"Burger, Bar Food",Newcastle,Newcastle,-32.9179680000,151.7830590000,0,0,No
+17842317,Das Hund Haus,,Newcastle,Newcastle,-32.9278830000,151.7852970000,0,0,No
+17874733,Mavericks On Darby,Modern Australian,Newcastle,Newcastle,-32.9271130000,151.7750580000,0,0,No
+17874756,The Flying Tiger,"Bar Food, Modern Australian",Newcastle,Newcastle,-32.9265420000,151.7774650000,0,0,No
+17874766,Arrivederci,Italian,Newcastle,Newcastle,-32.9389170000,151.7602870000,0,0,No
+16611595,Pizza Hut,Pizza,Newcastle,Newcastle,-32.9272003000,151.7698470000,0,0,Yes
+17874757,Brennans,"Healthy Food, Cafe Food",Newcastle,Newcastle,-32.9737160000,151.6443540000,0,0,No
+17874734,Seasalt,Australian,Newcastle,Newcastle,-32.9251210000,151.7738050000,0,0,No
+17874758,Supper Lane,Modern Australian,Newcastle,Newcastle,-32.9278860000,151.7854430000,0,0,No
+16611151,Conroy Bradley Pistol Club,"Coffee and Tea, Cafe Food",Newcastle,Newcastle,-32.9266790000,151.7774110000,0,0,No
+16612373,Happy Wombat,"Breakfast, Modern Australian",Newcastle West,Newcastle West,-32.9275570000,151.7656750000,3.9,12,No
+18046507,Bao Brothers Eatery,"Chinese, Street Food",Newcastle West,Newcastle West,-32.9265420000,151.7617970000,3.1,4,No
+16612388,Bank Corner Espresso Bar,"Coffee and Tea, Sandwich",Newcastle West,Newcastle West,-32.9258133000,151.7615939000,3.4,4,No
+16611967,The Tufty Hidey Hole,"Diner, Modern Australian",Newcastle West,Newcastle West,-32.9278860000,151.7591570000,3.6,3,No
+16611409,The Social,"Coffee and Tea, Cafe Food",Newcastle West,Newcastle West,-32.9258561000,151.7610458000,3.9,1,No
+18046514,Parry St Garage,Italian,Newcastle West,Newcastle West,-32.9306830000,151.7644260000,0,1,No
+16610379,Peak Cafe,"Burger, Coffee and Tea, Cafe Food",Newcastle West,Newcastle West,-32.9255370000,151.7607562000,0,2,No
+18046515,Wu Cha,"Fried Chicken, Street Food, Burger",Newcastle West,Newcastle West,-32.9289060000,151.7630670000,0,0,No
+18046518,Sherwood Coffee Bar,"Cafe Food, Coffee and Tea",Newcastle West,Newcastle West,-32.9277830000,151.7591610000,0,1,No
+16612315,Pinna Restaurant,Modern Australian,Newcastle West,Newcastle West,-32.9260570000,151.7603670000,0,0,No
+18046517,Corner House Cafe,"Cafe Food, Coffee and Tea",Newcastle West,Newcastle West,-32.9295850000,151.7668870000,0,0,No
+16612664,Pleb Espresso,Cafe Food,Newcastle West,Newcastle West,-32.9295880000,151.7668910000,0,0,No
+18046506,Coffee Guru - Marketown,"Coffee and Tea, Cafe Food",Newcastle West,Newcastle West,-32.9290890000,151.7631680000,0,0,No
+16612483,Baker's Delight,Others,Newcastle West,Newcastle West,-32.9272851000,151.7591542000,0,0,No
+17813301,Antojitos,"Mexican, Street Food",Carrington,Carrington,-32.9275980000,151.7641250000,3.5,3,No
+16612620,Chan Chan,,New Castle,New Castle,-32.9277200000,151.7667200000,3.9,4,No
+16609669,Rocksalt on Newcastle Marina,Modern Australian,Wickham,Wickham,-32.9200860000,151.7599030000,3.9,16,No
+16610069,Grill'd - The Junction,Burger,The Junction,The Junction,-32.9386180000,151.7609860000,4.9,14,No
+16609955,Goldbergs,"Breakfast, Coffee and Tea",Cooks Hill,Cooks Hill,-32.9316860000,151.7716830000,4.9,48,No
+16611156,Dark Horse Espresso,"Coffee and Tea, Cafe Food",Wickham,Wickham,-32.9193935000,151.7574329000,3.8,3,No
+16612363,Cafe Inu,"Asian, Breakfast, Burger",Carrington,Carrington,-32.9169480000,151.7640670000,3.8,1,No
+16612601,Hood Milk Bar,"Burger, Cafe Food",The Junction,The Junction,-32.9377814000,151.7593803000,3.5,14,No
+16611007,3 Monkeys Cafe,"Breakfast, Coffee and Tea, Modern Australian",Cooks Hill,Cooks Hill,-32.9315910000,151.7718820000,3.8,21,No
+16610739,Frankies Place,Cafe Food,Cooks Hill,Cooks Hill,-32.9314902000,151.7716592000,3.7,20,No
+16609953,Delucas Pizza,"Italian, Pizza",Cooks Hill,Cooks Hill,-32.9322200000,151.7711940000,4.1,33,No
+16611389,Carrington Place Restaurant,Modern Australian,Carrington,Carrington,-32.9169370000,151.7659965000,3.2,3,No
+16612008,The Schnitzel Boss,"Burger, Sandwich",Carrington,Carrington,-32.9120390000,151.7645580000,3.9,4,Yes
+16611414,The Village,"Greek, Cafe Food",Hamilton,Hamilton,-32.9201409000,151.7475380000,3.9,15,No
+16610778,The Depot on Beaumont,"Bar Food, Tapas, Modern Australian",Hamilton,Hamilton,-32.9224457000,151.7470567000,3.9,4,No
+16611068,La Casita Mexican,Mexican,Hamilton,Hamilton,-32.9202140000,151.7477990000,2.9,21,No
+16611042,Guzman y Gomez,Mexican,Hamilton,Hamilton,-32.9218313000,151.7471746000,3.9,6,No
+16610968,Sushi Revolution,"Japanese, Sushi",Hamilton,Hamilton,-32.9223660000,151.7474530000,3.2,10,No
+16611860,Lexie's on the Beach,"Breakfast, Coffee and Tea",Stockton,Stockton,-32.9108694000,151.7864923000,3.9,4,No
+16611159,Merewether Surfhouse Grill,Modern Australian,Merewether,Merewether,-32.9496628000,151.7559681000,3.9,15,No
+16611331,Suspension Espresso,"Breakfast, Coffee and Tea, Sandwich",Hamilton,Hamilton,-32.9189794000,151.7479394000,3.4,6,No
+16610999,Coco Monde Chocolateria,"Breakfast, Desserts, International",Cooks Hill,Cooks Hill,-32.9302307000,151.7726843000,3.6,15,No
+16610971,Eurobar,"Breakfast, Coffee and Tea, European",Hamilton,Hamilton,-32.9216330000,151.7474390000,3.9,12,No
+16611458,Adam's Ribs and Pizza,"American, Italian, Pizza",Adamstown,Adamstown,-32.9346206000,151.7292420000,3.8,1,No
+16611540,Grain Store Craft Beer Cafe,"American, Pizza, Tapas",Newcastle East,Newcastle East,-32.9274818000,151.7871512000,3.5,20,No
+16611131,Burwood inn hotel,"Bar Food, Steak",Merewether,Merewether,-32.9407853000,151.7528133000,3.9,4,No
+16610445,Scotties,"Burger, Seafood, Modern Australian",Newcastle East,Newcastle East,-32.9278404000,151.7882184000,3.7,26,No
+16609836,Paymasters,"Breakfast, Modern Australian",Newcastle East,Newcastle East,-32.9267752000,151.7866346000,4.9,19,No
+16611783,Goodness Me Organics,"Desserts, Cafe Food",Adamstown,Adamstown,-32.9340461000,151.7244582000,3.2,2,No
+16611969,Kitami,Japanese,Hamilton,Hamilton,-32.9192150000,151.7475560000,3.3,7,No
+17842204,Don Beppino's,Italian,Merewether,Merewether,-32.9387560000,151.7513430000,3.2,2,No
+17842211,Table 1 Espresso,Cafe Food,Merewether,Merewether,-32.9445250000,151.7492040000,3.3,5,No
+16609969,Vietking,Vietnamese,Cooks Hill,Cooks Hill,-32.9310070000,151.7719120000,3.2,16,No
+16611317,Fernleigh Cafe,Cafe Food,Adamstown,Adamstown,-32.9389040000,151.7166520000,3.9,2,No
+16610381,Siam Taste,Thai,Hamilton,Hamilton,-32.9213270000,151.7474705000,3.8,3,No
+16611230,Harrys Schnitzel Joint,"Burger, Sandwich",The Junction,The Junction,-32.9379610000,151.7589600000,3.8,7,No
+16610207,The Galley,"Breakfast, Coffee and Tea",Wickham,Wickham,-32.9198530000,151.7597960000,3.5,1,No
+16612361,Barrio Tapas Bar,Others,Mayfield,Mayfield,-32.9020110000,151.7432780000,3.2,4,No
+16611740,Figtree Churrasco,Brazilian,Mayfield,Mayfield,-32.8917500000,151.7444090000,3.8,5,No
+16611965,Side Pocket Espresso,Cafe Food,Mayfield,Mayfield,-32.8970600000,151.7355420000,3.9,8,No
+16611701,Star Buffet,Asian,Mayfield,Mayfield,-32.8991780000,151.7343832000,3.5,5,No
+16610242,Domino's,Pizza,Adamstown,Adamstown,-32.9347800000,151.7256320000,3.5,0,Yes
+16612236,Raj's Corner,Indian,Hamilton,Hamilton,-32.9231379000,151.7470496000,3.5,8,No
+16612013,Marlins Take Away,"Burger, Fish and Chips, Australian",Lambton,Lambton,-32.9114989000,151.7085329000,0,2,No
+16611630,The Locale,"Breakfast, Burger, Coffee and Tea",New Lambton,New Lambton,-32.9222441000,151.7137138000,3.0,14,No
+16610148,Northern Star Cafe,Italian,Hamilton,Hamilton,-32.9225660000,151.7469690000,2.7,4,No
+16612648,Little Figs,Australian,Carrington,Carrington,-32.9120390000,151.7645580000,0,1,No
+16612332,Crust,"Pizza, Fast Food",Jesmond,Jesmond,-32.9025718000,151.6909085000,0,2,Yes
+17842320,Criterion Pub & Kitchen,Pub Food,Carrington,Carrington,-32.9112640000,151.7673940000,0,2,No
+16612699,East End Hub,"Modern Australian, Australian, Cafe Food",Newcastle East,Newcastle East,-32.9291191000,151.7849888000,3.9,10,No
+16610006,Hooi's Recipe,Malaysian,Kotara,Kotara,-32.9451560000,151.6987020000,3.9,6,No
+16610782,Bistro Blu,Modern Australian,Adamstown Heights,Adamstown Heights,-32.9550050000,151.7047910000,0,1,No
+18031446,At Thai Town,Thai,Broadmeadow,Broadmeadow,-32.9240550000,151.7257720000,0,0,No
+16612130,Fortunate Son,"American, French, Modern Australian",Hamilton,Hamilton,-32.9243760000,151.7471450000,3.7,3,No
+16609773,Emerald Garden,Chinese,New Lambton,New Lambton,-32.9216030000,151.7153720000,3.6,5,No
+16609941,Prince of Wales,Others,Merewether,Merewether,-32.9390980000,151.7539220000,3.6,4,No
+16611139,Vistana Malaysian Restaurant,"Asian, Malaysian",Charlestown,Charlestown,-32.9642370000,151.6961040000,3.9,12,No
+16611905,House of Peking,"Asian, Chinese",Jesmond,Jesmond,-32.9043980000,151.6902030000,3.5,1,No
+16610604,Euro Patisserie,Desserts,New Lambton,New Lambton,-32.9340480000,151.7078530000,3.2,5,No
+18302107,Outback Jacks Bar & Grill,"Australian, Steak",Glendale,Glendale,-32.9325800000,151.6389840000,0,2,No
+16611591,Pizza Hut,Pizza,Jesmond,Jesmond,-32.9036736000,151.6906239000,0,2,Yes
+16606906,Tulip,Modern Australian,Geelong West,Geelong,-38.1386494000,144.3486617000,4.6,63,No
+16604859,Cafe Go,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1499020000,144.3653870000,4.7,116,No
+17858245,Igni,Modern Australian,Geelong CBD,Geelong,-38.1500445000,144.3578987000,4.1,43,No
+16605157,James St Bakery,"Bakery, Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1483312578,144.3587378785,4.4,80,No
+16606543,The Pickers Union,"Coffee and Tea, Cafe Food",North Geelong,Geelong,-38.1151249000,144.3545747000,4.3,92,No
+16604868,Sailors' Rest,"Modern Australian, Seafood",Geelong CBD,Geelong,-38.1444824248,144.3622924760,4.1,126,No
+16606881,King Of The Castle,Cafe Food,Geelong West,Geelong,-38.1339410000,144.3500240000,4.1,97,No
+16608009,Freckleduck,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1478350000,144.3636270000,4.1,79,No
+16605156,Winter's Cafe,"Coffee and Tea, Healthy Food, Cafe Food",Newtown,Geelong,-38.1564957435,144.3454046175,4.5,99,No
+16604861,Black Bull Tapas Bar and Restaurant,"Spanish, Tapas",Geelong CBD,Geelong,-38.1459181474,144.3613399565,4.1,110,No
+16604600,Parkers Steakhouse,Steak,Geelong CBD,Geelong,-38.1478730000,144.3596950000,4.4,117,No
+17858243,Boss Burger Co.,"Burger, American",Geelong West,Geelong,-38.1419183570,144.3482018262,4.2,76,No
+16605025,Fuel Coffee + Food,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1459105008,144.3607337773,4.9,71,No
+16604388,Oakdene Vineyards Restaurant,Modern Australian,Wallington,Geelong,-38.2291195000,144.5412239000,4.3,65,No
+16606982,Pakington Pantry,"Coffee and Tea, Cafe Food",Newtown,Geelong,-38.1563259615,144.3454488739,4.4,85,No
+16604453,ARANI Thai Restaurant,"Asian, Thai",Geelong CBD,Geelong,-38.1480980000,144.3634030000,4.2,76,Yes
+16604698,63 Degrees,"Coffee and Tea, Modern Australian, Cafe Food",Geelong West,Geelong,-38.1396490000,144.3487170000,4.0,93,No
+16604611,Lipari Espresso Bar,Italian,Geelong CBD,Geelong,-38.1491240000,144.3608860000,4.0,96,No
+16605186,Edge Geelong,"Tapas, Bar Food",Geelong CBD,Geelong,-38.1445836778,144.3628758565,2.8,105,No
+16606966,Down the Alley,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1447737905,144.3633760884,4.2,50,No
+16607690,Bistrot St Jean,French,Geelong CBD,Geelong,-38.1517310000,144.3590920000,4.0,39,No
+17858215,The Hot Chicken Project,BBQ,Geelong CBD,Geelong,-38.1479826906,144.3592220172,4.0,55,No
+16604455,Kanitar Thai Restaurant,"Asian, Thai",Geelong CBD,Geelong,-38.1471995949,144.3600109220,3.9,79,Yes
+16605759,Three Little Figs,"Coffee and Tea, Cafe Food",Geelong West,Geelong,-38.1439397697,144.3478001654,4.2,57,No
+16606196,There There,Modern Australian,Geelong CBD,Geelong,-38.1468594000,144.3587526000,4.3,65,No
+16604755,Commun Na Feinne Hotel,"Pub Food, Modern Australian",Geelong CBD,Geelong,-38.1571445498,144.3620886281,4.2,54,No
+16605648,Armageddon Cake Dessert Bar,Desserts,Geelong CBD,Geelong,-38.1476507329,144.3593980372,4.1,53,No
+16606896,Launch Espresso & Kitchen,"Burger, Coffee and Tea, Modern Australian",Geelong CBD,Geelong,-38.1473651795,144.3633040041,4.4,43,No
+16607341,Pistol Pete's Food n Blues,"American, Burger",Geelong CBD,Geelong,-38.1480915851,144.3595529348,4.2,42,No
+17883806,King George Fish And Grill,"Burger, Seafood, Fish and Chips",Geelong CBD,Geelong,-38.1440070000,144.3617240000,3.6,37,No
+16605340,Wharf Shed Cafe,"Modern Australian, Seafood",Geelong CBD,Geelong,-38.1445111659,144.3645220622,2.1,90,No
+16607137,Zigfrids Dining Hall & Bar,Tapas,Geelong West,Geelong,-38.1359460000,144.3495180000,3.9,103,No
+16605380,Burger Inc.,Burger,Newtown,Geelong,-38.1562698067,144.3454609439,4.0,55,No
+16605704,A Spot for Joe,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1494987612,144.3579784781,4.1,71,No
+16605868,SakuraTei Japanese Cuisine,"Japanese, Sushi",Geelong West,Geelong,-38.1385580000,144.3364690000,4.0,46,No
+18204154,Donco,Korean,Newtown,Geelong,-38.1559415777,144.3453311920,4.2,35,No
+16605121,The Sporting Globe,"Burger, Pizza, Bar Food",Geelong CBD,Geelong,-38.1495085167,144.3609470129,3.9,45,No
+16605800,Customs House Restaurant & Wine Bar,European,Geelong CBD,Geelong,-38.1450888859,144.3622140214,2.9,81,No
+16607302,China Town Dumpling,"Asian, Chinese",Belmont,Geelong,-38.1714110000,144.3461940000,3.4,78,No
+16604840,Empire Grill,Modern Australian,Geelong CBD,Geelong,-38.1531870000,144.3573150000,4.3,48,No
+16604481,Shiraaz Innovative Indian Restaurant,Indian,Geelong CBD,Geelong,-38.1471378961,144.3601768836,4.5,48,Yes
+16605176,Fishermen's Pier,"Seafood, Modern Australian",Geelong CBD,Geelong,-38.1449370074,144.3648539856,3.9,39,No
+18430709,Wah Wah Gee,Asian,Geelong CBD,Geelong,-38.1405100000,144.3628190000,3.2,38,No
+16604451,Lorm Thai Restaurant,"Asian, Thai",Geelong CBD,Geelong,-38.1622501720,144.3540128320,4.1,42,No
+16605132,Two Sugars Cafe,"Breakfast, Coffee and Tea, Pizza",Highton,Geelong,-38.1715430000,144.3245850000,3.0,83,No
+16604739,Sticks & Grace,"Coffee and Tea, Modern Australian",Newtown,Geelong,-38.1568197519,144.3451672420,3.8,48,No
+16605203,Groove Train,"Modern Australian, Italian",Geelong CBD,Geelong,-38.1473704529,144.3637039885,2.7,74,No
+17881852,Tomodachi,Japanese,Geelong CBD,Geelong,-38.1479942920,144.3593071774,3.6,36,No
+16605100,63 Degrees,"Breakfast, Coffee and Tea, Modern Australian",Highton,Geelong,-38.1719820000,144.3233340000,3.4,53,No
+16604860,Elephant & Castle Hotel,"Bar Food, Modern Australian",Geelong CBD,Geelong,-38.1561163697,144.3666406721,3.6,68,No
+16605501,Le Parisien,"French, Seafood",Geelong CBD,Geelong,-38.1445280414,144.3646011874,3.5,40,No
+16604394,Lord of The Isles,Modern Australian,Newtown,Geelong,-38.1601270000,144.3495990000,3.8,60,No
+16606066,John Doe Specialty Coffee,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1503102000,144.3633861000,3.9,42,No
+16605206,The Barking Dog,"Burger, Tapas, Modern Australian",Geelong West,Geelong,-38.1389410000,144.3489950000,3.4,57,No
+16607670,Two Sugars on Pako,"Modern Australian, Pizza",Geelong West,Geelong,-38.1401263039,144.3485572189,3.8,50,No
+16604479,Khan Curry Hut,Indian,Geelong CBD,Geelong,-38.1488314304,144.3579774722,4.1,55,Yes
+16604527,Hi Sushi Japanese Restaurant,"Japanese, Sushi",Geelong CBD,Geelong,-38.1476544243,144.3616933376,3.3,37,No
+16607970,Flying Brick Cider House,"French, Bar Food",Wallington,Geelong,-38.2107066000,144.5133161000,3.8,48,No
+16604786,Mexican Graffiti,Mexican,Geelong CBD,Geelong,-38.1484640000,144.3632050000,2.3,52,No
+16605084,Black Salt,"Coffee and Tea, Modern Australian",Geelong CBD,Geelong,-38.1352650000,144.3547970000,3.7,36,No
+16605558,Box Office,"Burger, Coffee and Tea",Geelong West,Geelong,-38.1400918000,144.3488360000,4.0,28,No
+16607698,Mr Umami's,"Asian, Fusion",Geelong CBD,Geelong,-38.1389410000,144.3489950000,3.5,31,No
+16604851,Cocco Lounge,"Modern Australian, Coffee and Tea",Geelong CBD,Geelong,-38.1498913524,144.3614398688,3.5,49,No
+16605248,Lavish Specialty Coffee,"Coffee and Tea, Sandwich, Cafe Food",Belmont,Geelong,-38.1745584000,144.3434451000,4.3,24,No
+16607121,Panache Cafe & Creperie,"Coffee and Tea, Desserts, Cafe Food",Geelong CBD,Geelong,-38.1499219370,144.3615478277,3.7,25,No
+16605049,El Toro Pizza & Restaurant,"Italian, Pizza",Geelong CBD,Geelong,-38.1518330000,144.3587950000,3.9,46,Yes
+16604664,Hog's Australia's Steakhouse,"Burger, Steak, Modern Australian",Geelong CBD,Geelong,-38.1476169833,144.3635728955,2.5,41,No
+16605934,Bay City Noodles & Cafe,Vietnamese,Geelong CBD,Geelong,-38.1492203339,144.3593413755,3.9,31,No
+18234114,Golden Dragon,"Chinese, Yum Cha",Geelong CBD,Geelong,-38.1493753674,144.3596612290,3.6,35,Yes
+16604899,Fujisan Japanese Takeaway,"Japanese, Sushi",Geelong CBD,Geelong,-38.1492213886,144.3591593206,3.6,32,No
+16606837,Jufu Garden,"Asian, Chinese",Newtown,Geelong,-38.1578632127,144.3451243266,4.0,22,No
+16605798,Telegraph Hotel,Others,Geelong West,Geelong,-38.1323239000,144.3498977000,3.8,39,No
+18419051,Leega Korean BBQ,"Korean, Korean BBQ",Geelong CBD,Geelong,-38.1481070000,144.3579480000,3.6,7,No
+18287716,Mad Kitchen,"Asian, Fusion",Geelong CBD,Geelong,-38.1481464278,144.3596220016,3.3,16,Yes
+16607779,House Iberia,Cafe Food,Geelong West,Geelong,-38.1378220000,144.3366300000,4.1,24,No
+16604749,Warung Bali,Indonesian,Geelong West,Geelong,-38.1380390000,144.3370510000,3.8,22,No
+16606228,Raj's on Pako,Burger,Geelong West,Geelong,-38.1428491736,144.3480130658,4.2,30,No
+17842045,Coffee Cartel Brew Bar,Coffee and Tea,Geelong CBD,Geelong,-38.1479985107,144.3589330092,3.5,22,No
+16605257,Belmont Hotel,"Bar Food, Modern Australian",Belmont,Geelong,-38.1713980000,144.3469610000,3.4,37,No
+16604934,Sawyers Arms Tavern,Modern Australian,Newtown,Geelong,-38.1544488417,144.3506835401,4.1,24,No
+16607950,Mr Grubb @ Oakdene,"Pizza, Cafe Food",Wallington,Geelong,-38.2291173000,144.5412243000,3.6,37,No
+16604450,Panny Thai,"Asian, Thai",Geelong West,Geelong,-38.1397134000,144.3483720000,4.0,29,No
+16604354,Barwon Edge Boathouse,Modern Australian,Newtown,Geelong,-38.1614395495,144.3244907632,3.2,34,No
+16604759,Pizzaland Bistro,"Italian, Pizza",Geelong CBD,Geelong,-38.1419940000,144.3556820000,4.1,26,No
+16605536,Casse-Croute Sandwich and Waffle Bar,"Sandwich, Crepes",Geelong CBD,Geelong,-38.1486187000,144.3631559000,4.0,28,No
+18652323,Sober Ramen,"Japanese, Asian",Geelong CBD,Geelong,-38.1478630000,144.3592080000,3.8,14,No
+16606248,Ebony & Ivory,"Modern Australian, Cafe Food",Geelong CBD,Geelong,-38.1501626583,144.3596059084,3.7,15,No
+16606463,The Lord Nelson,"Steak, Tapas, Modern Australian",Geelong CBD,Geelong,-38.1492848000,144.3656647000,3.1,32,No
+16605254,the Sprout and the Bean,"Coffee and Tea, Cafe Food",Geelong CBD,Geelong,-38.1482470000,144.3648830000,3.7,16,No
+16604819,Cremorne Hotel,"Modern Australian, International",Newtown,Geelong,-38.1569267878,144.3453070521,3.4,27,No
+16604894,Wood Oven Pizza,"Italian, Pizza, Turkish",Geelong CBD,Geelong,-38.1422411000,144.3557665000,2.9,31,Yes
+16606410,Oriental Source,"Chinese, Vietnamese",Geelong CBD,Geelong,-38.1490743000,144.3625640000,3.8,20,No
+16606552,Boat House Fish and Chips,"Fast Food, Fish and Chips, Burger",Geelong CBD,Geelong,-38.1414052000,144.3578541000,3.6,16,No
+17881850,El Santo Mexican,Mexican,Geelong CBD,Geelong,-38.1489616803,144.3586805463,3.3,23,No
+18661318,Okami Japanese Restaurant,"Japanese, Sushi",Geelong West,Geelong,-38.1426893046,144.3481110245,3.6,11,No
+16604478,Kohinoor Indian Restaurant,Indian,Geelong CBD,Geelong,-38.1479230000,144.3637390000,3.8,29,No
+16606497,The Geelong Boat House,Seafood,Geelong CBD,Geelong,-38.1428964000,144.3605468000,3.2,18,No
+16607360,Feed My Mojo,"Coffee and Tea, Fast Food, Cafe Food",Belmont,Geelong,-38.1703540000,144.3485380000,3.9,26,No
+18397507,Rook : Sri Lankan Fusion,"Sri Lankan, Cafe Food",Geelong CBD,Geelong,-38.1479093911,144.3625134230,3.8,19,Yes
+16605366,Sushi 8,"Japanese, Sushi",Geelong CBD,Geelong,-38.1491644374,144.3595361710,3.9,15,No
+17556314,Frisco Creek BBQ,BBQ,Hobart,Hobart,35.0231850000,-99.0933664000,3.4,6,No
+17553912,China King Buffet,Chinese,Hobart,Hobart,35.0241000000,-99.0943000000,3.7,3,No
+17553911,Big-A Burger Drive Inn,"American, Cajun",Hobart,Hobart,35.0240000000,-99.0914000000,3.2,3,No
+17555935,Nuevo Leon,"American, Mexican",Hobart,Hobart,35.0286670000,-99.0957980000,3.6,4,No
+17553918,Main Street Grill,"American, BBQ, Fast Food, Cafe",Hobart,Hobart,35.0268000000,-99.0934000000,3.9,3,No
+17553916,Kozy Diner,Diner,Hobart,Hobart,35.0267000000,-99.0928000000,3.9,3,No
+17553920,Sonic Drive-In,Fast Food,Hobart,Hobart,35.0159866000,-99.0949525000,3.0,2,No
+17553919,Pizza Hut,"Fast Food, Pizza",Hobart,Hobart,35.0161473274,-99.1053915024,0,1,No
+17556302,Cocina De Mi Pueblo,"American, Mexican",Hobart,Hobart,35.0334490000,-99.0606502000,0,1,No
+17553914,J J Sport Club,,Hobart,Hobart,35.0184000000,-99.0872000000,0,1,No
+17556030,Booth Drug Store,Desserts,Hobart,Hobart,35.0283787000,-99.0931332000,0,1,No
+17838881,Bedlam Sports Bar,American,Hobart,Hobart,35.0156661000,-99.0932879000,0,0,No
+17553921,Subway,Fast Food,Hobart,Hobart,35.0244000000,-99.0958000000,0,0,No
+17553283,Restaurante Rios,Mexican,Cordell,Cordell,35.3018000000,-98.9878000000,3.9,1,No
+17553286,Starvin Marvin's Pizza,Pizza,Cordell,Cordell,35.2912000000,-98.9901000000,0,1,No
+17556365,JT's BBQ,BBQ,Snyder,Snyder,34.6535979000,-98.9518843000,0,2,No
+17553007,Backdoor Steakhouse,"American, Steak, Bar Food",Altus,Altus,34.7800000000,-99.3352000000,3.8,17,No
+17555965,Sundance Cafe,"American, Burger, Southwestern",Mangum,Mangum,34.8904610000,-99.3008140000,3.5,2,No
+17552678,Roma's Italian Restaurant,Italian,Altus,Altus,34.6434000000,-99.3343000000,3.5,14,No
+17556299,Pizza Express,"Italian, Pizza, Sandwich",Snyder,Snyder,34.6588028000,-98.9519377000,0,2,No
+17554139,Hamburger Inn,,Mangum,Mangum,34.8733000000,-99.5043000000,3.9,4,No
+17556284,La Providencia,Mexican,Snyder,Snyder,34.6588028000,-98.9519377000,0,1,No
+17554945,Mel's Diner,Diner,Snyder,Snyder,34.6525000000,-98.9484000000,0,2,No
+17555762,Liberty Theatre,American,Carnegie,Carnegie,35.1060400000,-98.6019390000,3.9,1,No
+17553285,Sonic Drive-in,Fast Food,Cordell,Cordell,35.3037000000,-98.9876000000,0,1,No
+17552684,Sunrise Cafe,"American, Breakfast",Altus,Altus,34.6379000000,-99.3241000000,3.9,9,No
+17553081,Georgias Country Kitchen,"American, Diner, Southern",Carnegie,Carnegie,35.1036000000,-98.5534000000,3.5,3,No
+17555776,The Plaza,"Burger, Tex-Mex",Altus,Altus,34.6650740000,-99.3340365000,3.6,13,No
+17555722,Applebee's,American,Altus,Altus,34.6730250000,-99.3341850000,2.9,11,No
+17556259,Sakura,Japanese,Altus,Altus,34.6373877000,-99.3321644000,3.7,7,No
+17552651,Fred's Steakhouse & Saloon,"American, Burger, Steak",Altus,Altus,34.6620348000,-99.3340443000,3.2,13,No
+17552690,Val's It's About Time,"American, Sandwich, Southwestern",Altus,Altus,34.6455000000,-99.3336000000,3.3,9,No
+17555951,Fat Daddy's Grill & Drive Thru,"American, Burger",Altus,Altus,34.6466620000,-99.3341920000,3.8,10,No
+17555990,Billy Sims BBQ,"BBQ, Sandwich, Southern",Altus,Altus,34.6488235000,-99.3338787000,3.9,9,No
+17553083,Pizza Hut,"Fast Food, Pizza",Carnegie,Carnegie,35.1055229137,-98.5914436430,0,1,No
+17556238,Taqueria Hernandez,"Mexican, Tex-Mex",Altus,Altus,34.6379200000,-99.3353400000,3.9,6,No
+17554944,JT's Dairyland,,Snyder,Snyder,34.6534000000,-98.9521000000,0,1,No
+17554946,Pat's Place,,Snyder,Snyder,34.6506000000,-98.9395000000,0,1,No
+17552639,Braum's Ice Cream & Dairy,"American, Burger, Desserts",Altus,Altus,34.6631000000,-99.3343000000,3.9,7,No
+17552677,Roberts Drive-Inn,"American, Burger, Fast Food",Altus,Altus,34.6377000000,-99.3308000000,3.9,4,No
+17553009,Luigi's,"Italian, Pizza",Altus,Altus,34.7805000000,-99.3349000000,3.4,3,Yes
+17552638,Benny's Mexican Food & Pizza,"Mexican, Pizza, Tex-Mex",Altus,Altus,34.6507000000,-99.3337000000,2.7,5,No
+17556224,Jersey Mike's Subs,Sandwich,Altus,Altus,34.6625440000,-99.3344770000,3.9,6,No
+17553079,El Charro Restaurant,Mexican,Carnegie,Carnegie,35.1036000000,-98.5534000000,0,0,No
+17552665,Luigi Pizzeria,Pizza,Altus,Altus,34.6571000000,-99.3286000000,3.6,3,No
+17553006,All American Short Stop,"American, Diner, Fast Food",Altus,Altus,34.7804000000,-99.3352000000,3.6,4,No
+17552693,Whataburger,Fast Food,Altus,Altus,34.6664488086,-99.3335562944,3.4,1,No
+17554145,Sonic Drive-In,Fast Food,Mangum,Mangum,34.8854037000,-99.5018221000,0,0,No
+17555995,Friendship Inn,"American, Breakfast",Altus,Altus,34.6598654000,-99.3340509000,3.1,4,No
+17552641,Buena Vista Restaurant,"Mexican, Tex-Mex",Altus,Altus,34.6377000000,-99.3476000000,3.2,5,No
+17552654,Happy Donuts,Donuts,Altus,Altus,34.6465000000,-99.3339000000,3.7,3,No
+17552695,Ye Olde Donut Shoppe & Bakery,"Breakfast, Donuts",Altus,Altus,34.6456000000,-99.3343000000,3.8,1,No
+17552647,Confectionately Yours Sweets,"Coffee and Tea, Desserts",Altus,Altus,34.6398000000,-99.3342000000,3.9,3,No
+17552662,Long John Silver's,Fast Food,Altus,Altus,34.6498000000,-99.3343000000,3.0,3,No
+17555744,Taco Mayo,"Fast Food, Tex-Mex",Altus,Altus,34.6547553000,-99.3340283000,3.1,4,No
+17556531,Araceli's,"Breakfast, Mexican",Altus,Altus,34.6382040000,-99.3294080000,0,2,No
+17552650,Fortune Cookie Oriental Restaurant,"Asian, Chinese",Altus,Altus,34.6375000000,-99.3354000000,3.5,3,No
+17552673,Pizza Hut,"Fast Food, Pizza",Altus,Altus,34.6381071750,-99.3160347641,2.9,4,Yes
+17552692,Western Sizzlin,"American, Steak",Altus,Altus,34.6715000000,-99.3337000000,3.1,4,No
+17552681,Sonic Drive-In,Fast Food,Altus,Altus,34.6488362000,-99.3343160000,3.4,4,No
+17552674,Pizza Hut,"Fast Food, Pizza",Altus,Altus,34.6564878674,-99.3346104026,3.3,3,No
+17556574,Mi Familia Mexican Cafe,"American, Mexican",Altus,Altus,34.6512040000,-99.3328230000,3.5,4,No
+17554142,Jo's Place,,Mangum,Mangum,34.8721000000,-99.5059000000,0,1,No
+17552685,Taco Bell,Fast Food,Altus,Altus,34.6560002690,-99.3346157670,3.7,3,No
+17554143,Pizza Hut,"Fast Food, Pizza",Mangum,Mangum,34.8869804273,-99.5021465421,0,1,No
+17552642,Burger King,Fast Food,Altus,Altus,34.6371725855,-99.2994734645,2.5,2,No
+17553084,Sonic Drive-In,Fast Food,Carnegie,Carnegie,35.1052413199,-98.5914782479,0,0,No
+17552635,Arby's,Fast Food,Altus,Altus,34.6500495535,-99.3342984624,3.6,2,No
+17556319,Melvins Drive Inn,,Mangum,Mangum,34.8737137000,-99.5027474000,0,0,No
+17552682,Subway,Fast Food,Altus,Altus,34.6533000000,-99.3343000000,3.3,2,No
+17552667,McDonald's,Fast Food,Altus,Altus,34.6375060000,-99.3316940000,3.9,1,No
+17552645,Church's Chicken,Fast Food,Altus,Altus,34.6457000000,-99.3339000000,2.8,1,No
+17555591,Domino's Pizza,"Fast Food, Pizza",Altus,Altus,34.6381535180,-99.3237286806,0,2,Yes
+17556535,"General Store of Elmer, Ok","American, Breakfast, Burger",Altus,Altus,34.4785309000,-99.3343660000,0,0,No
+17552646,Club Altus,Sandwich,Altus,Altus,34.6571000000,-99.3286000000,0,1,No
+17552659,Kendall's Restaurant,"American, BBQ",Altus,Altus,34.6377000000,-99.3338000000,0,0,No
+17554137,El Charro,Tex-Mex,Mangum,Mangum,34.8830000000,-99.5028000000,0,0,No
+17552670,Altus Club,"American, Burger, Bar Food",Altus,Altus,34.6552200000,-99.2864890000,0,0,No
+17552683,Subway,Fast Food,Altus,Altus,34.6379000000,-99.3283000000,0,0,No
+17556303,Hilda's Sweet Shoppe,,Altus,Altus,34.6435460000,-99.3341880000,0,0,No
+17552668,McDonald's,Fast Food,Altus,Altus,34.6631000000,-99.3340000000,0,0,No
+17553010,Orient Drugstore & Grill,"Diner, Bar Food",Altus,Altus,34.7807000000,-99.3354000000,0,1,No
+17552655,Hideout Bar,,Altus,Altus,34.6364000000,-99.3338000000,0,0,No
+17553082,Ice Dock,,Carnegie,Carnegie,35.1036000000,-98.5534000000,0,0,No
+18915904,Papa John's Pizza,,Altus,Altus,34.6374639245,-99.3305751555,0,0,No
+17554947,Waterhole Number 183,"American, Cafe",Snyder,Snyder,34.6651000000,-98.9521000000,0,0,No
+17554146,Subway,Fast Food,Mangum,Mangum,34.8738000000,-99.5028000000,0,0,No
+17554136,Country Cafe,,Mangum,Mangum,34.8723000000,-99.4974000000,0,0,No
+17553277,Sunshine Cafe',"American, Pizza, Cafe",Cordell,Cordell,35.2914000000,-98.9900000000,0,0,Yes
+18936306,Shorty Bauman's,Burger,Cordell,Cordell,35.2909430000,-98.9871340000,0,0,No
+17553284,Sonic Drive-In,Fast Food,Cordell,Cordell,35.3038048209,-98.9879744538,0,0,No
+17554297,T J's Simple Simons,Pizza,Carnegie,Carnegie,35.0975000000,-98.7470000000,0,0,No
