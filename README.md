@@ -29,3 +29,12 @@ Task Breakdown:
 - Use Matplotlib to create visualizations (plots and PNG files)
 - Create a write-up summarising the findings
 - Prepare a 10 minute presentation that covers results 
+
+
+Code:
+pulldata.ipynb : pulls data from the zomato
+MultiCity_DataProcess.ipynb : contains the codes for data processing obtained from pulldata.ipynb
+
+Relevant files:
+multi_restaurant_data.csv : output of pulldata.ipynb containting list of restaurants
+Restaurant_ratingstimestamp_data.csv : output of pulldata.ipynb containting ratings and timestamps of each restaurants 
