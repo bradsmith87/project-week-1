@@ -32,9 +32,9 @@ Task Breakdown:
 
 
 Code:
-pulldata.ipynb : pulls data from the zomato
-MultiCity_DataProcess.ipynb : contains the codes for data processing obtained from pulldata.ipynb
+- pulldata.ipynb : pulls data from the zomato
+- MultiCity_DataProcess.ipynb : contains the codes for data processing obtained from pulldata.ipynb
 
 Relevant files:
-multi_restaurant_data.csv : output of pulldata.ipynb containting list of restaurants
-Restaurant_ratingstimestamp_data.csv : output of pulldata.ipynb containting ratings and timestamps of each restaurants 
+- multi_restaurant_data.csv : output of pulldata.ipynb containting list of restaurants
+- Restaurant_ratingstimestamp_data.csv : output of pulldata.ipynb containting ratings and timestamps of each restaurants 
